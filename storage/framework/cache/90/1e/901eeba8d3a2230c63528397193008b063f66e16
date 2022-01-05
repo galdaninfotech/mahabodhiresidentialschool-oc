@@ -1,0 +1,185 @@
+1629773694a:1:{s:48:"sponsorship/country-wise-representative-list.htm";a:14:{s:8:"fileName";s:48:"sponsorship/country-wise-representative-list.htm";s:7:"content";s:3732:"title = "Country Wise Representative List"
+url = "/sponsorship/country-wise-representative-list"
+layout = "default"
+meta_title = "Country Wise Representative List"
+meta_description = "Country Wise Representative List"
+is_hidden = 0
+seo_keywords = "Country Wise Representative List"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/sponsorship/country-wise-representative-list.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <div class="box">
+        <div class="container">
+          <div class="wrapper">
+            <button class="toggle">GERMANY<i class="fas fa-plus icon"></i></button>
+            <div class="content heightActive">
+              <p class="contentText">Für Spenden oder Patenschaften von Deutschland aus, wenden Sie sich bitte an einen der folgenden Ansprechpartner:</p>
+              <div class="country-wise mt-2 mb-2">
+                <div class="logo-sponsors">
+                  <img class="img img-responsive" src="{{'assets/images/buddhahaus-logo.jpg'|theme}}" alt="buddhahaus-logo">
+                </div>
+                <div class="address">
+                  Buddha-Haus e.V.<br>
+                  Kontakt: Steffen Wendt<br>
+                  Uttenbühl 5<br>
+                  87466 Oy-Mittelberg<br>
+                  E-Mail: hilfsprojekt.ladakh@buddha-haus.de<br>
+                  https://www.buddha-haus.de/mahabodhi-hilfsprojekt<br><br>
+                </div>
+              </div>
+
+			  <div class="country-wise mt-2 mb-2">
+                <div class="logo-sponsors">
+					<img class="img img-responsive" src="{{'assets/images/lotus-vihara-logo.jpg'|theme}}" alt="lotus-vihara-logo">
+                </div>
+                <div class="address">
+					Buddhistisches Zentrum Lotos-Vihara<br>
+					Neue Blumenstraße 5<br>
+					10179 Berlin (Mitte)<br>
+					Tel.: +49 (0)30 - 25 76 21 64<br>
+					Fax: +49 (0)30 - 24 08 31 59<br>
+					E-Mail: info@lotos-vihara.de<br>
+					http://www.lotos-vihara.de/lotos-vihara-ev/mahabodhi.html<br><br>
+                </div>
+              </div>
+
+			  <div class="country-wise mt-2 mb-2">
+                <div class="logo-sponsors">
+					<img class="img img-responsive" src="{{'assets/images/dharma-chakra-logo.png'|theme}}" alt="dharma-chakra-logo">
+                </div>
+                <div class="address">
+					Dharma-Chakra e. V.<br>
+					Marktgasse 15<br>
+					01662 Meißen<br>
+					Kontakt: Heiko Damme & Gitta Fineiß<br>
+					Telefon: +49 (0)3521 494520<br>
+					Telefax: +49 (0)3521 494519<br>
+					E-Mail: admin@dharmarad.de<br>
+					http://www.dharmarad.de/verein/spendenprojekt.html<br><br>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <div class="wrapper">
+            <button class="toggle">OTHER COUNTRIES<i class="fas fa-plus icon"></i></button>
+            <div class="content">
+              <p></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/sponsorship' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/education' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625510669;s:6:"markup";s:3387:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/sponsorship/country-wise-representative-list.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <div class="box">
+        <div class="container">
+          <div class="wrapper">
+            <button class="toggle">GERMANY<i class="fas fa-plus icon"></i></button>
+            <div class="content heightActive">
+              <p class="contentText">Für Spenden oder Patenschaften von Deutschland aus, wenden Sie sich bitte an einen der folgenden Ansprechpartner:</p>
+              <div class="country-wise mt-2 mb-2">
+                <div class="logo-sponsors">
+                  <img class="img img-responsive" src="{{'assets/images/buddhahaus-logo.jpg'|theme}}" alt="buddhahaus-logo">
+                </div>
+                <div class="address">
+                  Buddha-Haus e.V.<br>
+                  Kontakt: Steffen Wendt<br>
+                  Uttenbühl 5<br>
+                  87466 Oy-Mittelberg<br>
+                  E-Mail: hilfsprojekt.ladakh@buddha-haus.de<br>
+                  https://www.buddha-haus.de/mahabodhi-hilfsprojekt<br><br>
+                </div>
+              </div>
+
+			  <div class="country-wise mt-2 mb-2">
+                <div class="logo-sponsors">
+					<img class="img img-responsive" src="{{'assets/images/lotus-vihara-logo.jpg'|theme}}" alt="lotus-vihara-logo">
+                </div>
+                <div class="address">
+					Buddhistisches Zentrum Lotos-Vihara<br>
+					Neue Blumenstraße 5<br>
+					10179 Berlin (Mitte)<br>
+					Tel.: +49 (0)30 - 25 76 21 64<br>
+					Fax: +49 (0)30 - 24 08 31 59<br>
+					E-Mail: info@lotos-vihara.de<br>
+					http://www.lotos-vihara.de/lotos-vihara-ev/mahabodhi.html<br><br>
+                </div>
+              </div>
+
+			  <div class="country-wise mt-2 mb-2">
+                <div class="logo-sponsors">
+					<img class="img img-responsive" src="{{'assets/images/dharma-chakra-logo.png'|theme}}" alt="dharma-chakra-logo">
+                </div>
+                <div class="address">
+					Dharma-Chakra e. V.<br>
+					Marktgasse 15<br>
+					01662 Meißen<br>
+					Kontakt: Heiko Damme & Gitta Fineiß<br>
+					Telefon: +49 (0)3521 494520<br>
+					Telefax: +49 (0)3521 494519<br>
+					E-Mail: admin@dharmarad.de<br>
+					http://www.dharmarad.de/verein/spendenprojekt.html<br><br>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <div class="wrapper">
+            <button class="toggle">OTHER COUNTRIES<i class="fas fa-plus icon"></i></button>
+            <div class="content">
+              <p></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/sponsorship' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/education' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:32:"Country Wise Representative List";s:3:"url";s:45:"/sponsorship/country-wise-representative-list";s:6:"layout";s:7:"default";s:10:"meta_title";s:32:"Country Wise Representative List";s:16:"meta_description";s:32:"Country Wise Representative List";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:32:"Country Wise Representative List";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

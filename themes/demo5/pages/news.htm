@@ -1,0 +1,35 @@
+title = "News"
+url = "/news"
+layout = "default"
+meta_title = "News"
+meta_description = "News"
+is_hidden = 0
+seo_keywords = "News"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/index.jpg'|theme}}" alt="News">
+      </div>
+       
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/useful-links' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->

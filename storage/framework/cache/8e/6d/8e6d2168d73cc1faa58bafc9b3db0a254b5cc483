@@ -1,0 +1,83 @@
+1640587053a:1:{s:40:"facilities/fundamentals-nursery-wing.htm";a:14:{s:8:"fileName";s:40:"facilities/fundamentals-nursery-wing.htm";s:7:"content";s:3600:"title = "FUNdamentals Nursery Wing"
+url = "/facilities/fundamentals-nursery-wing"
+layout = "default"
+meta_title = "FUNdamentals Nursery Wing"
+meta_description = "FUNdamentals Nursery Wing"
+is_hidden = 0
+seo_keywords = "FUNdamentals Nursery Wing"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/index.jpg'|theme}}" alt="FUNdamentals Nursery Wings">
+      </div>
+
+      <p>Learning is fun! That is what the youngest students of nursery and kindergarten are likely to figure out in their first years at our institution. The concept of FUNdamentals promotes stress-free and child-centred learning, giving the toddlers the freedom, they need, to grow to their utmost potential. In a newly constructed learning area the kids have access to an open-display library and are encouraged to gain knowledge about nature, science, health and their heritage.</p>
+
+        <p>Playing is the way of learning children get the most output from. Why? Because they are playing real life. While playing they learn about their own strengths and weaknesses. They learn to trust themselves and spend happy hours at FUNdamentals, not being confronted with the expectations of others, who might think that the earlier you start learning academics the greater the benefit for the infants. Sooner is not always better. Rather than pressurizing kids with tests and force them to learn algebra or writing before their brain is ready for processing this complex input, we give them the opportunity to do what they are naturally good at.</p>
+
+        <p>Even though the young toddlers cannot read on their own, we still consider it very beneficial if kids come into contact with books at an early stage of their development. So the teachers read out books to the toddlers. Hence, kids learn to speak the words before writing them. Before a person can master words orally, writing does not have any purpose and meaning.</p>
+
+        <p>The FUNdamentals section is equipped with clean indoor washrooms and an indoor perceptual motor gym. Furthermore, the kids creativity and self-esteem is promoted by talent performances of songs or dances on stage. But most of all our nursery students enjoy playing in the sandbox.</p>
+
+        <p>English is not only the official language of our country, but also the preferred medium for global communication. Therefore, Mahabodhi makes sure that kids come into contact with the English language at the stage of nursery already, so that even before joining 1st class students are able to have little conversations in English. International teachers and volunteers are especially encouraging the kids to apply their language skills on a daily basis.</p>
+
+        <p>In a fun and growth-promoting environment the toddlers are prepared for entering the regular school system in such a way, that they learn from each other and with each other – but most importantly with fun. </p>
+
+       
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/useful-links' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1632628415;s:6:"markup";s:3291:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/index.jpg'|theme}}" alt="FUNdamentals Nursery Wings">
+      </div>
+
+      <p>Learning is fun! That is what the youngest students of nursery and kindergarten are likely to figure out in their first years at our institution. The concept of FUNdamentals promotes stress-free and child-centred learning, giving the toddlers the freedom, they need, to grow to their utmost potential. In a newly constructed learning area the kids have access to an open-display library and are encouraged to gain knowledge about nature, science, health and their heritage.</p>
+
+        <p>Playing is the way of learning children get the most output from. Why? Because they are playing real life. While playing they learn about their own strengths and weaknesses. They learn to trust themselves and spend happy hours at FUNdamentals, not being confronted with the expectations of others, who might think that the earlier you start learning academics the greater the benefit for the infants. Sooner is not always better. Rather than pressurizing kids with tests and force them to learn algebra or writing before their brain is ready for processing this complex input, we give them the opportunity to do what they are naturally good at.</p>
+
+        <p>Even though the young toddlers cannot read on their own, we still consider it very beneficial if kids come into contact with books at an early stage of their development. So the teachers read out books to the toddlers. Hence, kids learn to speak the words before writing them. Before a person can master words orally, writing does not have any purpose and meaning.</p>
+
+        <p>The FUNdamentals section is equipped with clean indoor washrooms and an indoor perceptual motor gym. Furthermore, the kids creativity and self-esteem is promoted by talent performances of songs or dances on stage. But most of all our nursery students enjoy playing in the sandbox.</p>
+
+        <p>English is not only the official language of our country, but also the preferred medium for global communication. Therefore, Mahabodhi makes sure that kids come into contact with the English language at the stage of nursery already, so that even before joining 1st class students are able to have little conversations in English. International teachers and volunteers are especially encouraging the kids to apply their language skills on a daily basis.</p>
+
+        <p>In a fun and growth-promoting environment the toddlers are prepared for entering the regular school system in such a way, that they learn from each other and with each other – but most importantly with fun. </p>
+
+       
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/useful-links' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:25:"FUNdamentals Nursery Wing";s:3:"url";s:37:"/facilities/fundamentals-nursery-wing";s:6:"layout";s:7:"default";s:10:"meta_title";s:25:"FUNdamentals Nursery Wing";s:16:"meta_description";s:25:"FUNdamentals Nursery Wing";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:25:"FUNdamentals Nursery Wing";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

@@ -1,0 +1,55 @@
+1632541130a:1:{s:46:"mahabodhi-sambodhi-retreat-centre/teachers.htm";a:14:{s:8:"fileName";s:46:"mahabodhi-sambodhi-retreat-centre/teachers.htm";s:7:"content";s:1047:"title = "Teachers"
+url = "/mahabodhi-sambodhi-retreat-centre/teachers"
+layout = "default"
+meta_title = "Teachers"
+meta_description = "Teachers"
+is_hidden = 0
+seo_keywords = "Teachers"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/about/management-committee.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-sambodhi-retreat-centre' %}
+      {% partial 'sidebar/mahabodhi-city-centre-changspa' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625511853;s:6:"markup";s:800:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/about/management-committee.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-sambodhi-retreat-centre' %}
+      {% partial 'sidebar/mahabodhi-city-centre-changspa' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:8:"Teachers";s:3:"url";s:43:"/mahabodhi-sambodhi-retreat-centre/teachers";s:6:"layout";s:7:"default";s:10:"meta_title";s:8:"Teachers";s:16:"meta_description";s:8:"Teachers";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:8:"Teachers";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

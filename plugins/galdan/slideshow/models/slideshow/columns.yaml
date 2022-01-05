@@ -1,0 +1,16 @@
+# ===================================
+#  List Column Definitions
+# ===================================
+
+columns:
+    id:
+        label: ID
+        searchable: true
+
+    name:
+      label: Slideshow Name
+      searchable: true
+
+    active:
+      label: Active
+      searchable: true

@@ -1,0 +1,181 @@
+1629773693a:1:{s:50:"mahabodhi-residential-school/cbse-requirements.htm";a:14:{s:8:"fileName";s:50:"mahabodhi-residential-school/cbse-requirements.htm";s:7:"content";s:4720:"title = "CSE Requirements"
+url = "/mahabodhi-residential-school/cbse-requirements"
+layout = "default"
+meta_title = "CSE Requirements"
+meta_description = "CSE Requirements"
+is_hidden = 0
+seo_keywords = "CSE Requirements"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <h6>Land Requirement</h6>
+      <p>The school should have the following land:</p>
+      <ul class="department-list">
+        <li>2 acres( In general)</li>
+        <li>1.5 acres( In general with restriction on no. of students)</li>
+        <li>1 acre- Hilly areas</li>
+      </ul>
+
+      <p>The land should be in a single piece of land and no public road, railway line, stream, canal and power lines should cross through the piece of land.</p>
+
+      <p>The plot of land should be surrounded by a single continuous pucca boundary wall on all four sides enclosing the school building and the playground. </p>
+
+      <h6>Land Documents </h6>
+      <p>The school should have legible copies of the registered sale deed, lease deed or the gift deed through which the ownership of land has accrued in the name of school or the Society/Trust/Company running the school. </p>
+      
+      <p>The land has to be in the name of the school or the society running the school.</p>
+
+      <p>If the acquisition of land is through the lease deed, the same should befor a period of at least 30 years. </p>
+
+      <p>Unregistered sale/lease deed documents will not be accepted.The lessor should be the owner (and not lessee) of the land that he is leasing to the school/society running the school and sublease to the school/society running the school will not be accepted.</p>
+
+      <p>In case the original document is in vernacular language, the same should be translated in Hindi or English along with the name and designation and stamp/seal of the issuing authority. </p>
+      
+      <p>The school manager should give an affidavit on the translation itself that the translation is exact translation of the original document and nothing has been added or deleted from the contents of the original document.</p>
+       
+      <h6>Land Certificate</h6>
+      <p>The school should be in possession of original Land Certificate issued by the concerned District magistrate/Registering/Revenue authorities. The format of the land certificate is given at Appendix-VI of Affiliation byelaws.</p>
+
+      <h6>Recognition letter </h6>
+      <p>The school should have a Recognition Certificate as given below issued by the State Education Department.</p>
+      <table>
+        <tbody>
+          <thead>
+            <tr>
+              <td>Level of Application</td> <td>Recognition Certificate required</td>
+            </tr>
+          </thead>
+            <tr>
+              <td> Middle Class Syllabus</td><td>1 to 8th</td>
+            </tr>
+            <tr>
+              <td>Secondary Level (Fresh)</td><td>1 to 8th</td>
+            </tr>
+            <tr>
+              <td>Secondary Level (Switch Over)</td><td>1 to 10th</td>
+            </tr>
+            <tr>
+              <td>Senior Secondary Level (Upgradation)</td><td>At least 1 to 8th</td>
+            </tr>
+            <tr>
+              <td>Senior Secondary Level (Switch Over)</td><td>1 to 12th</td>
+            </tr>
+        </tbody>
+      </table><br>
+      
+      <h6>NOC</h6>
+      <p>The school should have a No Objection Certificate issued by the State Education Department clearly stating that the state govt. has no objection if the school is affiliated to the board. The name and address of the school in this certificate should be same as mentioned by the school in the application form.</p>
+
+      <p>In case the original document is in vernacular language, the same should be translated in Hindi or English along with the name designation and stamp/seal of the issuing authority. The school manager should give an affidavit on the translation itself that the translation is exact translation of the original document and nothing has been added or deleted from the contents of the original document. </p>
+       
+       
+       
+       
+
+      
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-residential-school' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1626450868;s:6:"markup";s:4437:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <h6>Land Requirement</h6>
+      <p>The school should have the following land:</p>
+      <ul class="department-list">
+        <li>2 acres( In general)</li>
+        <li>1.5 acres( In general with restriction on no. of students)</li>
+        <li>1 acre- Hilly areas</li>
+      </ul>
+
+      <p>The land should be in a single piece of land and no public road, railway line, stream, canal and power lines should cross through the piece of land.</p>
+
+      <p>The plot of land should be surrounded by a single continuous pucca boundary wall on all four sides enclosing the school building and the playground. </p>
+
+      <h6>Land Documents </h6>
+      <p>The school should have legible copies of the registered sale deed, lease deed or the gift deed through which the ownership of land has accrued in the name of school or the Society/Trust/Company running the school. </p>
+      
+      <p>The land has to be in the name of the school or the society running the school.</p>
+
+      <p>If the acquisition of land is through the lease deed, the same should befor a period of at least 30 years. </p>
+
+      <p>Unregistered sale/lease deed documents will not be accepted.The lessor should be the owner (and not lessee) of the land that he is leasing to the school/society running the school and sublease to the school/society running the school will not be accepted.</p>
+
+      <p>In case the original document is in vernacular language, the same should be translated in Hindi or English along with the name and designation and stamp/seal of the issuing authority. </p>
+      
+      <p>The school manager should give an affidavit on the translation itself that the translation is exact translation of the original document and nothing has been added or deleted from the contents of the original document.</p>
+       
+      <h6>Land Certificate</h6>
+      <p>The school should be in possession of original Land Certificate issued by the concerned District magistrate/Registering/Revenue authorities. The format of the land certificate is given at Appendix-VI of Affiliation byelaws.</p>
+
+      <h6>Recognition letter </h6>
+      <p>The school should have a Recognition Certificate as given below issued by the State Education Department.</p>
+      <table>
+        <tbody>
+          <thead>
+            <tr>
+              <td>Level of Application</td> <td>Recognition Certificate required</td>
+            </tr>
+          </thead>
+            <tr>
+              <td> Middle Class Syllabus</td><td>1 to 8th</td>
+            </tr>
+            <tr>
+              <td>Secondary Level (Fresh)</td><td>1 to 8th</td>
+            </tr>
+            <tr>
+              <td>Secondary Level (Switch Over)</td><td>1 to 10th</td>
+            </tr>
+            <tr>
+              <td>Senior Secondary Level (Upgradation)</td><td>At least 1 to 8th</td>
+            </tr>
+            <tr>
+              <td>Senior Secondary Level (Switch Over)</td><td>1 to 12th</td>
+            </tr>
+        </tbody>
+      </table><br>
+      
+      <h6>NOC</h6>
+      <p>The school should have a No Objection Certificate issued by the State Education Department clearly stating that the state govt. has no objection if the school is affiliated to the board. The name and address of the school in this certificate should be same as mentioned by the school in the application form.</p>
+
+      <p>In case the original document is in vernacular language, the same should be translated in Hindi or English along with the name designation and stamp/seal of the issuing authority. The school manager should give an affidavit on the translation itself that the translation is exact translation of the original document and nothing has been added or deleted from the contents of the original document. </p>
+       
+       
+       
+       
+
+      
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-residential-school' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:16:"CSE Requirements";s:3:"url";s:47:"/mahabodhi-residential-school/cbse-requirements";s:6:"layout";s:7:"default";s:10:"meta_title";s:16:"CSE Requirements";s:16:"meta_description";s:16:"CSE Requirements";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:16:"CSE Requirements";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

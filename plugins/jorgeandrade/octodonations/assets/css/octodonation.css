@@ -1,0 +1,68 @@
+@import url(http://fonts.googleapis.com/css?family=Lato|Raleway:400,700,200);
+
+.octodonation-card{
+  display: block;
+  min-width: 250px;
+  max-width: 400px;
+  margin: 15px auto;
+  width: 100%;
+  border: 1px solid #e0e0e0;
+  background: white;
+  position: relative;
+  outline: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+.octodonation-card .octodonation-title{
+  text-align: center;
+  border: 0;
+  border-bottom: 1px solid #e0e0e0;
+  display: block;
+  width: 100%;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+.octodonation-card .octodonation-content{
+  border: 0;
+  display: block;
+  width: 100%;
+  padding: 20px 40px 40px;
+  background-color: #f4f4f4;
+  color: #5c5c5c;
+  font-size: 15px;
+}
+
+.octodonation-card .octodonation-content label{
+  font-family: "Lato", sans-serif;
+  font-size: 1em;
+}
+.octodonation-card .octodonation-action{
+  border: 0;
+  border-top: 1px solid #e0e0e0;
+  display: block;
+  width: 100%;
+  padding: 20px;
+}
+
+@media (max-width: 767px) {
+  .octodonation-card{
+    display: block;
+    max-width: 90%;
+  }
+}
+@media (min-width: 768px) {
+  /*.octodonation-card{
+    display: block;
+    min-width: 250px;
+    max-width: 400px;
+  }*/
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}

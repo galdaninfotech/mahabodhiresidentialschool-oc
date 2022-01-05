@@ -1,0 +1,67 @@
+1632541128a:1:{s:42:"education/mahabodhi-jetavana-monastery.htm";a:14:{s:8:"fileName";s:42:"education/mahabodhi-jetavana-monastery.htm";s:7:"content";s:2866:"title = "Mahabodhi Jetavana Monastery"
+url = "/education/mahabodhi-jetavana-monastery"
+layout = "default"
+meta_title = "Mahabodhi Jetavana Monastery"
+meta_description = "Mahabodhi Jetavana Monastery"
+is_hidden = 0
+seo_keywords = "Mahabodhi Jetavana Monastery"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/education/mahabodhi-jetavana-monastery.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <p>Despite all the humanitarian work undertaken by MIMC, Ven. Sanghasena has not lost sight of the primary goal of introducing Ladakhi’s to both the theory and the practice of the Buddha's teachings. In fact, the Dhamma or teachings is the foundation of the entire organization. Without the guidance of the Buddha's teachings, MIMC might have developed into an organization without a goal. Therefore, to ensure the future existence of MIMC, in 2004 Ven. Sanghasena took an essential and visionary step to establish a Monastery at the Devachan Campus to train a new generation of monks. </p>
+
+      <p>The Mahabodhi Jetavana Monastery was established on 17th July, 2004 with only a few monks in training. In 2005, the first group of 10 new young monks were ordained as novices and began their monastic education at MIMC. Today, the Mahabodhi Jetavana Monastery is the only Theravada Monastery and training Centre in the entire western Himalayan region. Presently 10 young monks receive an innovative and comprehensive training program from Venerable Sanghasena Mahathera and two other senior monks. They study and practice the teachings of the Buddha as preserved in the Pali Canon (Tipitaka). Additionally, they also receive a complete, modern secular education approved by the Indian Ministry of Education at the Mahabodhi Residential School. The monks will become proficient not only in Pali, but also in English and Ladakhi languages that they can become competent teachers, healers and leaders of the community in the future. These monks are and will continue to be the community leaders of MIMC, guiding and ensuring the moral and spiritual integrity o the organization. </p>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625506606;s:6:"markup";s:2543:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/education/mahabodhi-jetavana-monastery.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <p>Despite all the humanitarian work undertaken by MIMC, Ven. Sanghasena has not lost sight of the primary goal of introducing Ladakhi’s to both the theory and the practice of the Buddha's teachings. In fact, the Dhamma or teachings is the foundation of the entire organization. Without the guidance of the Buddha's teachings, MIMC might have developed into an organization without a goal. Therefore, to ensure the future existence of MIMC, in 2004 Ven. Sanghasena took an essential and visionary step to establish a Monastery at the Devachan Campus to train a new generation of monks. </p>
+
+      <p>The Mahabodhi Jetavana Monastery was established on 17th July, 2004 with only a few monks in training. In 2005, the first group of 10 new young monks were ordained as novices and began their monastic education at MIMC. Today, the Mahabodhi Jetavana Monastery is the only Theravada Monastery and training Centre in the entire western Himalayan region. Presently 10 young monks receive an innovative and comprehensive training program from Venerable Sanghasena Mahathera and two other senior monks. They study and practice the teachings of the Buddha as preserved in the Pali Canon (Tipitaka). Additionally, they also receive a complete, modern secular education approved by the Indian Ministry of Education at the Mahabodhi Residential School. The monks will become proficient not only in Pali, but also in English and Ladakhi languages that they can become competent teachers, healers and leaders of the community in the future. These monks are and will continue to be the community leaders of MIMC, guiding and ensuring the moral and spiritual integrity o the organization. </p>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:28:"Mahabodhi Jetavana Monastery";s:3:"url";s:39:"/education/mahabodhi-jetavana-monastery";s:6:"layout";s:7:"default";s:10:"meta_title";s:28:"Mahabodhi Jetavana Monastery";s:16:"meta_description";s:28:"Mahabodhi Jetavana Monastery";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:28:"Mahabodhi Jetavana Monastery";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

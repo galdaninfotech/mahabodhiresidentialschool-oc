@@ -1,0 +1,133 @@
+1632626090a:1:{s:24:"news/press-clippings.htm";a:14:{s:8:"fileName";s:24:"news/press-clippings.htm";s:7:"content";s:4606:"title = "Press Clippings"
+url = "/news/press-clippings"
+layout = "default"
+meta_title = "Press Clippings"
+meta_description = "Press Clippings"
+is_hidden = 0
+seo_keywords = "Press Clippings"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+          <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <h6>MIMC Hospital Declared As COVID-19 Hospital</h6>
+      <strong>Date</strong>: 31st March, 2020 22:40 IST<br>
+      <strong>URL</strong>: <a href="https://www.republicworld.com/india-news/general-news/mahabodhi-karuna-charitable-hospital-declared-as-covid-19-hospital.html">Republic World India</a><br><br>
+
+      <p>Lieutenant Governor of Ladakh RK Mathur took stock of arrangements at Mahabodhi Karuna Charitable Hospital, Leh that has been designated for COVID-19 cases.</p>
+
+      <p>Lieutenant Governor of Ladakh R.K. Mathur took stock of arrangements at Mahabodhi Karuna Charitable Hospital, Leh that has been designated for COVID-19 cases in UT Ladakh. He was accompanied by Commissioner/ Secretary Health Ladakh, Rigzin Samphel.</p>
+
+      <p>Earlier, Common High Court of UT of Jammu-Kashmir and Ladakh directed Secretary, Department of Health and Medical Education of both the Union Territories together with the IGP, Jammu, IGP, Kashmir and IGP, Ladakh to ensure that complete safety and security is provided to the personnel who are serving at all government facilities.</p>
+
+      <p>Both UT governments were also directed to ensure that the accommodation, healthcare and the needs of the migrant labourers, if not already provided for, are addressed.</p>
+      <a href="https://www.republicworld.com/india-news/general-news/mahabodhi-karuna-charitable-hospital-declared-as-covid-19-hospital.html">Read More...</a>
+
+      <br><hr><br>
+
+      <h6>PM congratulates MIMC Ladakh on Mahakaruna Diwas Celebrations</h6>
+      <strong>Date</strong>:   February 5, 2017 00:20 IST<br>
+      <strong>URL</strong>: <a href="https://www.business-standard.com/article/government-press-release/pm-congratulates-mahabodhi-international-meditation-centre-leh-ladakh-on-mahakaruna-diwas-117020400680_1.html">Business Standard</a><br><br>
+
+      <p>The Prime Minister Shri Narendra Modi has congratulated Mahabodhi International Meditation Centre, Leh Ladakh on Mahakaruna Diwas 2017 celebrations.</p>
+
+      <p>"Congratulations & best wishes to Mahabodhi International Meditation Centre, Leh Ladakh on Mahakaruna Diwas 2017 celebrations.</p>
+
+      <p>Life & teachings of Lord Buddha embody service, compassion and renunciation. He emphasised on non-violence & ending human suffering.", the Prime Minister said.</p>
+
+      <a href="https://www.business-standard.com/article/government-press-release/pm-congratulates-mahabodhi-international-meditation-centre-leh-ladakh-on-mahakaruna-diwas-117020400680_1.html">Read More...</a>
+      
+      <br><hr><br>
+
+      <h6>A home away from home for poor girls from Ladakh</h6>
+      <strong>Date</strong>: December 1, 2010 4:53:11 am<br>
+      <strong>URL</strong>: <a href="https://indianexpress.com/article/cities/chandigarh/a-home-away-from-home-for-poor-girls-from-ladakh/">Indian Express</a><br><br>
+
+      <p>It’s a foundation for the future,one that Bhikkhu Sanghasena,president of the Mahabodhi International Meditation Centre in Leh,envisions for the girls of Leh and Ladakh. The Mahabodhi Devachan Campus at Choglamsar is a 230-acre campus where activities of the Mahabodhi International Meditation Centre (MIMC) are conducted.</p>
+
+      <p>MIMC is a non-government,charitable organisation working for the poorest of poor. The campus houses a school till Class X,residential hostels for boys and girls,home for the elderly and physically challenged,a hostel for the visually impaired,a monastery and nunnery,a meditation retreat centre,a global family guest house and a fully-equipped hospital with state-of-the-art facilities.</p>
+
+      <a href="https://indianexpress.com/article/cities/chandigarh/a-home-away-from-home-for-poor-girls-from-ladakh/">Read More...</a>
+
+
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/news' %}
+      {% partial 'sidebar/media' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1626490317;s:6:"markup";s:4353:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+          <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <h6>MIMC Hospital Declared As COVID-19 Hospital</h6>
+      <strong>Date</strong>: 31st March, 2020 22:40 IST<br>
+      <strong>URL</strong>: <a href="https://www.republicworld.com/india-news/general-news/mahabodhi-karuna-charitable-hospital-declared-as-covid-19-hospital.html">Republic World India</a><br><br>
+
+      <p>Lieutenant Governor of Ladakh RK Mathur took stock of arrangements at Mahabodhi Karuna Charitable Hospital, Leh that has been designated for COVID-19 cases.</p>
+
+      <p>Lieutenant Governor of Ladakh R.K. Mathur took stock of arrangements at Mahabodhi Karuna Charitable Hospital, Leh that has been designated for COVID-19 cases in UT Ladakh. He was accompanied by Commissioner/ Secretary Health Ladakh, Rigzin Samphel.</p>
+
+      <p>Earlier, Common High Court of UT of Jammu-Kashmir and Ladakh directed Secretary, Department of Health and Medical Education of both the Union Territories together with the IGP, Jammu, IGP, Kashmir and IGP, Ladakh to ensure that complete safety and security is provided to the personnel who are serving at all government facilities.</p>
+
+      <p>Both UT governments were also directed to ensure that the accommodation, healthcare and the needs of the migrant labourers, if not already provided for, are addressed.</p>
+      <a href="https://www.republicworld.com/india-news/general-news/mahabodhi-karuna-charitable-hospital-declared-as-covid-19-hospital.html">Read More...</a>
+
+      <br><hr><br>
+
+      <h6>PM congratulates MIMC Ladakh on Mahakaruna Diwas Celebrations</h6>
+      <strong>Date</strong>:   February 5, 2017 00:20 IST<br>
+      <strong>URL</strong>: <a href="https://www.business-standard.com/article/government-press-release/pm-congratulates-mahabodhi-international-meditation-centre-leh-ladakh-on-mahakaruna-diwas-117020400680_1.html">Business Standard</a><br><br>
+
+      <p>The Prime Minister Shri Narendra Modi has congratulated Mahabodhi International Meditation Centre, Leh Ladakh on Mahakaruna Diwas 2017 celebrations.</p>
+
+      <p>"Congratulations & best wishes to Mahabodhi International Meditation Centre, Leh Ladakh on Mahakaruna Diwas 2017 celebrations.</p>
+
+      <p>Life & teachings of Lord Buddha embody service, compassion and renunciation. He emphasised on non-violence & ending human suffering.", the Prime Minister said.</p>
+
+      <a href="https://www.business-standard.com/article/government-press-release/pm-congratulates-mahabodhi-international-meditation-centre-leh-ladakh-on-mahakaruna-diwas-117020400680_1.html">Read More...</a>
+      
+      <br><hr><br>
+
+      <h6>A home away from home for poor girls from Ladakh</h6>
+      <strong>Date</strong>: December 1, 2010 4:53:11 am<br>
+      <strong>URL</strong>: <a href="https://indianexpress.com/article/cities/chandigarh/a-home-away-from-home-for-poor-girls-from-ladakh/">Indian Express</a><br><br>
+
+      <p>It’s a foundation for the future,one that Bhikkhu Sanghasena,president of the Mahabodhi International Meditation Centre in Leh,envisions for the girls of Leh and Ladakh. The Mahabodhi Devachan Campus at Choglamsar is a 230-acre campus where activities of the Mahabodhi International Meditation Centre (MIMC) are conducted.</p>
+
+      <p>MIMC is a non-government,charitable organisation working for the poorest of poor. The campus houses a school till Class X,residential hostels for boys and girls,home for the elderly and physically challenged,a hostel for the visually impaired,a monastery and nunnery,a meditation retreat centre,a global family guest house and a fully-equipped hospital with state-of-the-art facilities.</p>
+
+      <a href="https://indianexpress.com/article/cities/chandigarh/a-home-away-from-home-for-poor-girls-from-ladakh/">Read More...</a>
+
+
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/news' %}
+      {% partial 'sidebar/media' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:15:"Press Clippings";s:3:"url";s:21:"/news/press-clippings";s:6:"layout";s:7:"default";s:10:"meta_title";s:15:"Press Clippings";s:16:"meta_description";s:15:"Press Clippings";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:15:"Press Clippings";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

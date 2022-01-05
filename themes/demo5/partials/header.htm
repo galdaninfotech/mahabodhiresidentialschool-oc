@@ -1,0 +1,18 @@
+
+{% if this.page.title == 'Home' %}
+    <header class="header background-position-top bg-img no-transition">
+        {% partial 'mainmenu' %}
+    </header>
+    {% component 'homeslideshow' %}
+
+{% else %}
+    <header class="header background-position-top bg-img no-transition">
+        {% partial 'mainmenu' %}
+    </header>
+    {% if this.page.title == 'Gallery' %}
+        
+    {% else %}
+        {% partial 'slideshow-sm' %}
+    {% endif %}
+{% endif %}
+

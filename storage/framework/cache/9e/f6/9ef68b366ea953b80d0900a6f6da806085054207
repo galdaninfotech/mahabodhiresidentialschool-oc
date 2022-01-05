@@ -1,0 +1,77 @@
+1629773693a:1:{s:31:"education/mahabodhi-nunnery.htm";a:14:{s:8:"fileName";s:31:"education/mahabodhi-nunnery.htm";s:7:"content";s:4036:"title = "Mahabodhi Nunnery"
+url = "/education/mahabodhi-nunnery"
+layout = "default"
+meta_title = "Mahabodhi Nunnery"
+meta_description = "Mahabodhi Nunnery"
+is_hidden = 0
+seo_keywords = "Mahabodhi Nunnery"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/education/nunnery.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <p>Venerable Sanghasena also established the Mahabodhi Nunnery, the first of its kind with first batch of young nuns in the year 1996. He recognized the need to improve the status and impoverished living conditions of nuns and to restore their self-esteem and dignity in society. Previously non-existent, a comprehensive secular and religious education is provided to the young nuns in this safe and healthy spiritual environment. This has provided them with an opportunity to develop and grow to their fullest potential and offer their services for the development of their fellow sisters in the remote and neglected communities of this region. </p>
+
+      <p>The Mahabodhi Nunnery has trained over 30 nuns from all parts of Ladakh as well as the less well known Buddhist communities in the areas such as Arunachal Pradesh. The combining of secular and religious education, the monastic discipline and the exposure to many different cultures at Mahabodhi have enabled these Buddhist women from the Himalayan region to choose between a secular life rich with spirituality or give a lifelong commitment to a monastic life of service and meditation. The senior nuns and students were sent abroad to participate in several International Buddhist Women Conferences. For the first time, Venerable Sanghasena invited and hosted the International Buddhist Women's Conference (Sakyadittha) at Devachan Campus of Mahabodhi International Meditation Centre in the year 1995.</p>
+
+      <p>Presently 15 young nuns are at the Nunnery receiving their monastic training which includes the practice of Vipassana meditation, the study of basic Buddhist philosophy, Buddhist history, Ladakhi, Tibetan, English and Pali languages. They also attend the Mahabodhi School at the campus with other regular children. This gives them both a sound secular education as well as an opportunity for integration with the broader society. Unfortunately, the part of the building had to be dismantled due to a crack in the foundation wall during the 2010 devastating flash floods. We are very much thankful to the members of Buddha Haus, Germany who very kindly funded part of the reconstruction of the building. </p>
+
+      <p>Venerable Sanghasena certainly aspires and wishes very strongly to train and make the Mahabodhi nuns socially engaged Buddhist nuns, respectful and skillful Dhamma and meditation teachers, community leaders, religious administrators and healers. They will be encouraged to shoulder leadership responsibilities in carrying out the various educational, medical, spiritual and charity projects on the campus. They will be encouraged to help in organizing special pujas and give Dhamma talks to the residents at the campus. In the long run, their work will enhance the status of nuns and women and enable them to play a significant role in promoting the welfare and preserving the cultural heritage of the Ladakhi communities.</p>
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625506404;s:6:"markup";s:3768:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/education/nunnery.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <p>Venerable Sanghasena also established the Mahabodhi Nunnery, the first of its kind with first batch of young nuns in the year 1996. He recognized the need to improve the status and impoverished living conditions of nuns and to restore their self-esteem and dignity in society. Previously non-existent, a comprehensive secular and religious education is provided to the young nuns in this safe and healthy spiritual environment. This has provided them with an opportunity to develop and grow to their fullest potential and offer their services for the development of their fellow sisters in the remote and neglected communities of this region. </p>
+
+      <p>The Mahabodhi Nunnery has trained over 30 nuns from all parts of Ladakh as well as the less well known Buddhist communities in the areas such as Arunachal Pradesh. The combining of secular and religious education, the monastic discipline and the exposure to many different cultures at Mahabodhi have enabled these Buddhist women from the Himalayan region to choose between a secular life rich with spirituality or give a lifelong commitment to a monastic life of service and meditation. The senior nuns and students were sent abroad to participate in several International Buddhist Women Conferences. For the first time, Venerable Sanghasena invited and hosted the International Buddhist Women's Conference (Sakyadittha) at Devachan Campus of Mahabodhi International Meditation Centre in the year 1995.</p>
+
+      <p>Presently 15 young nuns are at the Nunnery receiving their monastic training which includes the practice of Vipassana meditation, the study of basic Buddhist philosophy, Buddhist history, Ladakhi, Tibetan, English and Pali languages. They also attend the Mahabodhi School at the campus with other regular children. This gives them both a sound secular education as well as an opportunity for integration with the broader society. Unfortunately, the part of the building had to be dismantled due to a crack in the foundation wall during the 2010 devastating flash floods. We are very much thankful to the members of Buddha Haus, Germany who very kindly funded part of the reconstruction of the building. </p>
+
+      <p>Venerable Sanghasena certainly aspires and wishes very strongly to train and make the Mahabodhi nuns socially engaged Buddhist nuns, respectful and skillful Dhamma and meditation teachers, community leaders, religious administrators and healers. They will be encouraged to shoulder leadership responsibilities in carrying out the various educational, medical, spiritual and charity projects on the campus. They will be encouraged to help in organizing special pujas and give Dhamma talks to the residents at the campus. In the long run, their work will enhance the status of nuns and women and enable them to play a significant role in promoting the welfare and preserving the cultural heritage of the Ladakhi communities.</p>
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:17:"Mahabodhi Nunnery";s:3:"url";s:28:"/education/mahabodhi-nunnery";s:6:"layout";s:7:"default";s:10:"meta_title";s:17:"Mahabodhi Nunnery";s:16:"meta_description";s:17:"Mahabodhi Nunnery";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:17:"Mahabodhi Nunnery";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

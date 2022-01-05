@@ -1,0 +1,27 @@
+1626491176a:1:{s:26:"sidebar/social-welfare.htm";a:5:{s:8:"fileName";s:26:"sidebar/social-welfare.htm";s:7:"content";s:919:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">Social Welfare</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('/social-welfare/old-age-home')}}">Old Age Home</a></li>
+        <li><a href="{{url('/social-welfare/visually-impaired-project')}}">Visually Impaired Project</a></li>
+        <li><a href="{{url('/social-welfare/mahabodhi-karuna-charitable-hospital')}}">Mahabodhi Karuna Charitable Hospital</a></li>
+        <li><a href="{{url('/social-welfare/mahabodhi-maitri-charity-programme')}}">Mahabodhi Maitri Charity Programme</a></li>
+        <li><a href="{{url('/social-welfare/interfaith-programme')}}">Interfaith Programme</a></li>
+        <li><a href="{{url('/social-welfare/gggg')}}">Youth Wing</a></li>
+      </ul>
+    </nav>
+  </div>";s:5:"mtime";i:1616027424;s:6:"markup";s:919:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">Social Welfare</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('/social-welfare/old-age-home')}}">Old Age Home</a></li>
+        <li><a href="{{url('/social-welfare/visually-impaired-project')}}">Visually Impaired Project</a></li>
+        <li><a href="{{url('/social-welfare/mahabodhi-karuna-charitable-hospital')}}">Mahabodhi Karuna Charitable Hospital</a></li>
+        <li><a href="{{url('/social-welfare/mahabodhi-maitri-charity-programme')}}">Mahabodhi Maitri Charity Programme</a></li>
+        <li><a href="{{url('/social-welfare/interfaith-programme')}}">Interfaith Programme</a></li>
+        <li><a href="{{url('/social-welfare/gggg')}}">Youth Wing</a></li>
+      </ul>
+    </nav>
+  </div>";s:4:"code";N;}}

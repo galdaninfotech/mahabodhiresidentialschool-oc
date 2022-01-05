@@ -1,0 +1,315 @@
+1640587053a:1:{s:13:"mainmenu.yaml";a:7:{s:8:"fileName";s:13:"mainmenu.yaml";s:7:"content";s:8842:"items:
+    -
+        title: Home
+        nesting: null
+        type: cms-page
+        url: null
+        code: ''
+        reference: home
+        cmsPage: null
+        replace: null
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: About
+        nesting: null
+        type: url
+        url: /
+        code: ''
+        reference: null
+        cmsPage: null
+        replace: null
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+        items:
+            -
+                title: 'About Us'
+                nesting: null
+                type: cms-page
+                url: null
+                code: ''
+                reference: about/about
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: Motto
+                nesting: null
+                type: cms-page
+                url: null
+                code: ''
+                reference: about/motto
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Achievements & Awards'
+                nesting: null
+                type: url
+                url: /
+                code: ''
+                reference: null
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+                items:
+                    -
+                        title: 'Guinness World Record'
+                        nesting: null
+                        type: url
+                        url: /about/guinness-world-record
+                        code: ''
+                        reference: null
+                        cmsPage: null
+                        replace: null
+                        viewBag:
+                            isHidden: '0'
+                            cssClass: ''
+                            isExternal: '0'
+                    -
+                        title: 'DFC I Can Change Award'
+                        nesting: null
+                        type: url
+                        url: /about/dfc-i-can-change-award
+                        code: ''
+                        reference: null
+                        cmsPage: null
+                        replace: null
+                        viewBag:
+                            isHidden: '0'
+                            cssClass: ''
+                            isExternal: '0'
+    -
+        title: Academics
+        nesting: null
+        type: url
+        url: /academics
+        code: ''
+        reference: null
+        cmsPage: null
+        replace: null
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Facilities
+        nesting: null
+        type: url
+        url: /
+        code: ''
+        reference: null
+        cmsPage: null
+        replace: null
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+        items:
+            -
+                title: 'Science Labs'
+                nesting: null
+                type: url
+                url: /facilities/science-labs
+                code: ''
+                reference: null
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Computer Lab'
+                nesting: null
+                type: url
+                url: /facilities/computer-lab
+                code: ''
+                reference: null
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Robotics Lab'
+                nesting: null
+                type: url
+                url: /facilities/robotics-lab
+                code: ''
+                reference: null
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Maths Lab'
+                nesting: null
+                type: url
+                url: /facilities/maths-lab
+                code: ''
+                reference: null
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'FUNdamentals Nursery Wing'
+                nesting: null
+                type: url
+                url: /facilities/fundamentals-nursery-wing
+                code: ''
+                reference: null
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Educational and Cultural Excursions'
+                nesting: null
+                type: url
+                url: /facilities/educational-and-cultural-excursions
+                code: ''
+                reference: null
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'The Bag Piper Band Troop'
+                nesting: null
+                type: url
+                url: /facilities/the-bag-piper-band-troop
+                code: ''
+                reference: null
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: Transportation
+                nesting: null
+                type: url
+                url: /facilities/transportation
+                code: ''
+                reference: null
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+    -
+        title: Admissions
+        nesting: null
+        type: url
+        url: /admissions
+        code: ''
+        reference: null
+        cmsPage: null
+        replace: null
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: 'CBSE Mandatory Disclosure'
+        nesting: null
+        type: url
+        url: /cbse-mandatory-disclosure
+        code: ''
+        reference: null
+        cmsPage: null
+        replace: null
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+        items:
+            -
+                title: 'CBSE Mandatory Disclosure'
+                nesting: null
+                type: url
+                url: /cbse-mandatory-disclosure
+                code: ''
+                reference: null
+                cmsPage: null
+                replace: null
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Self Certification By The School'
+                type: url
+                url: storage/app/media/cbse-mandatory-disclosure/documents-and-information/self-certification-by-the-school.pdf
+                code: ''
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+    -
+        title: News
+        nesting: null
+        type: url
+        url: /news
+        code: ''
+        reference: null
+        cmsPage: null
+        replace: null
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Gallery
+        nesting: null
+        type: cms-page
+        url: null
+        code: ''
+        reference: gallery
+        cmsPage: null
+        replace: null
+        viewBag:
+            isHidden: '0'
+            cssClass: mylink
+            isExternal: '0'
+    -
+        title: Contact
+        nesting: null
+        type: cms-page
+        url: null
+        code: ''
+        reference: contact
+        cmsPage: null
+        replace: null
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+name: Mainmenu
+";s:5:"mtime";i:1634653661;s:6:"markup";N;s:4:"code";N;s:4:"name";N;s:5:"items";a:0:{}}}

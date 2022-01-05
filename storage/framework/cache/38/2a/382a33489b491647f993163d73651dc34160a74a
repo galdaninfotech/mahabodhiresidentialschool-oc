@@ -1,0 +1,41 @@
+1629773696a:1:{s:17:"sidebar/about.htm";a:5:{s:8:"fileName";s:17:"sidebar/about.htm";s:7:"content";s:966:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">About MIMC</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('about/mahabodhi-international-meditation-centre')}}">MIMC</a></li>
+        <li><a href="{{url('about/motto')}}">Motto</a></li>
+        <li><a href="{{url('about/prayer-of-compassion')}}">Prayer of Compassion</a></li>
+        <li><a href="{{url('about/list-of-activities')}}">List of Activities</a></li>
+        <li><a href="{{url('about/management-committee')}}">Management Committee</a></li>
+        <li><a href="{{url('about/guidelines')}}">Guidelines</a></li>
+        <li><a href="{{url('about/volunteer-with-us')}}">Volunteer With Us</a></li>
+        <li><a href="{{url('about/membership-form')}}">Membership Form</a></li>
+      </ul>
+    </nav>
+
+    
+    <br>
+
+  </div>";s:5:"mtime";i:1616027164;s:6:"markup";s:966:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">About MIMC</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('about/mahabodhi-international-meditation-centre')}}">MIMC</a></li>
+        <li><a href="{{url('about/motto')}}">Motto</a></li>
+        <li><a href="{{url('about/prayer-of-compassion')}}">Prayer of Compassion</a></li>
+        <li><a href="{{url('about/list-of-activities')}}">List of Activities</a></li>
+        <li><a href="{{url('about/management-committee')}}">Management Committee</a></li>
+        <li><a href="{{url('about/guidelines')}}">Guidelines</a></li>
+        <li><a href="{{url('about/volunteer-with-us')}}">Volunteer With Us</a></li>
+        <li><a href="{{url('about/membership-form')}}">Membership Form</a></li>
+      </ul>
+    </nav>
+
+    
+    <br>
+
+  </div>";s:4:"code";N;}}

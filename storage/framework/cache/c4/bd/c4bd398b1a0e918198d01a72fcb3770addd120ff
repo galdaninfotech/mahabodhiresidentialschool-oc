@@ -1,0 +1,93 @@
+1629773693a:1:{s:36:"education/mahabodhi-girls-hostel.htm";a:14:{s:8:"fileName";s:36:"education/mahabodhi-girls-hostel.htm";s:7:"content";s:3427:"title = "Mahabodhi Girls Hostel"
+url = "/education/mahabodhi-girls-hostel"
+layout = "default"
+meta_title = "Mahabodhi Girls Hostel"
+meta_description = "Mahabodhi Girls Hostel"
+is_hidden = 0
+seo_keywords = "Mahabodhi Girls Hostel"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/about/management-committee.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <h6>HOW AND WHEN:</h6>
+      <p>Mahabodhi girls hostel was established in 1992 with only 25 girls by founder of MIMC ven.Sangasana, he established this hostel with the aim to provide boarding, lodging and medical care free of cost for the girls belonging to the underprivileged families. the first building of the hostel was built i 1992 especially for girls because the Ladakhi society was and continues to be negligent towards the female child, particularly in matters of education. Initially the building was just sufficient to accommodate the first batch of 25 girls however; over the period of time the need was felt to extent the same facilities to the hundreds more students belonging to poor families of the remote villages.</p>
+
+      <p>They are looked after by the warden, in charge, and the foster mothers. And as they would do in a family environment, the child are encourage to clean and arrange their own rooms, help in gardening and participate in many of the Devachan social events. The feeling of a shared responsibility and accountability towards each other’s peaceful living in inculcates in them through the compassionate and blissful teaching of the Buddha.</p>
+
+      <p>Every year we admit students in our hostels and we require sponsors for newly admitted children. Total amount for sponsoring a child is Rs. 3500/-which cover entire their boarding lodging, food, medicine, education, uniform, stationary etc. for a year.</p>
+
+      <h6>PRESENT SCENARIO:</h6>
+      <p>
+        At present there are around 120 students who come from approximately 70 different villages of Ladakh, living like a sisters, in a homely environment surrounded by love, care and genuine concern.
+        Education is a crucial key to helping eradicate poverty and we are fully committed towards fulfilling this dream and objective of Venerable Sanghasena.
+      </p>
+
+      <h6>FUTERE PLAN:</h6>
+      <p>To extend the existing facilities to accommodate at least 200 girls, ensuring no female child is deprived of an education through a lack of facilities or resources.there is also a need to expand the current facilities in order to accommodate students who are coming to join the school from our Tingmosgang and Bodhkhabu branch school in the coming years.</p>
+    
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625505605;s:6:"markup";s:3134:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/about/management-committee.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <h6>HOW AND WHEN:</h6>
+      <p>Mahabodhi girls hostel was established in 1992 with only 25 girls by founder of MIMC ven.Sangasana, he established this hostel with the aim to provide boarding, lodging and medical care free of cost for the girls belonging to the underprivileged families. the first building of the hostel was built i 1992 especially for girls because the Ladakhi society was and continues to be negligent towards the female child, particularly in matters of education. Initially the building was just sufficient to accommodate the first batch of 25 girls however; over the period of time the need was felt to extent the same facilities to the hundreds more students belonging to poor families of the remote villages.</p>
+
+      <p>They are looked after by the warden, in charge, and the foster mothers. And as they would do in a family environment, the child are encourage to clean and arrange their own rooms, help in gardening and participate in many of the Devachan social events. The feeling of a shared responsibility and accountability towards each other’s peaceful living in inculcates in them through the compassionate and blissful teaching of the Buddha.</p>
+
+      <p>Every year we admit students in our hostels and we require sponsors for newly admitted children. Total amount for sponsoring a child is Rs. 3500/-which cover entire their boarding lodging, food, medicine, education, uniform, stationary etc. for a year.</p>
+
+      <h6>PRESENT SCENARIO:</h6>
+      <p>
+        At present there are around 120 students who come from approximately 70 different villages of Ladakh, living like a sisters, in a homely environment surrounded by love, care and genuine concern.
+        Education is a crucial key to helping eradicate poverty and we are fully committed towards fulfilling this dream and objective of Venerable Sanghasena.
+      </p>
+
+      <h6>FUTERE PLAN:</h6>
+      <p>To extend the existing facilities to accommodate at least 200 girls, ensuring no female child is deprived of an education through a lack of facilities or resources.there is also a need to expand the current facilities in order to accommodate students who are coming to join the school from our Tingmosgang and Bodhkhabu branch school in the coming years.</p>
+    
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:22:"Mahabodhi Girls Hostel";s:3:"url";s:33:"/education/mahabodhi-girls-hostel";s:6:"layout";s:7:"default";s:10:"meta_title";s:22:"Mahabodhi Girls Hostel";s:16:"meta_description";s:22:"Mahabodhi Girls Hostel";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:22:"Mahabodhi Girls Hostel";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

@@ -1,0 +1,43 @@
+<div class="octodonation-card">
+    <div class="octodonation-title">
+        <h3>{{title}}</h3>
+    </div>
+
+    <div class="octodonation-content">
+    	{% if showComment == 'on' %}
+    		<p class="help-block">{{comment}}</p>
+		{% endif %}
+        <form name="octodonation-form" id="octodonation-form" data-request="{{__SELF__}}::onDonate" data-request-update="'{{__SELF__}}::alert': '#result'">
+        	<div class="form-group">
+        		<label for="name">Name</label>
+            	<input type="text" class="form-control" name="name" id="name">
+        	</div>
+            <div class="form-group">
+            	<label for="email">* Email</label>
+            	<input type="email" class="form-control" name="email" id="email" required>
+            </div>
+            <div class="form-group">
+            	<label for="country">Country</label>
+            	<input type="text" class="form-control" name="country" id="country" required>
+            </div>
+            <div class="form-group">
+            	<label for="amount">* Amount</label>
+            	<input type="number" class="form-control" name="amount" id="amount" min="5" required>
+            	<p class="help-block">5 is the minimum amount.</p>
+            </div>
+            <div class="form-group">
+            	<label for="comment">Comment</label>
+            	<textarea class="form-control" name="comment" id="comment" rows="5"></textarea>
+            </div>
+        </form>
+
+        <div id="result"></div>
+    </div>
+
+    <div class="octodonation-action">
+        <input type="submit" class="btn btn-default" form="octodonation-form" value="Donate">
+        <p class="help-block pull-right">* Required Fields.</p>
+    </div>
+    
+    <div id="result"></div>
+</div>

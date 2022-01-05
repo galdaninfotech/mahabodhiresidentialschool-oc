@@ -1,0 +1,89 @@
+1629773692a:1:{s:51:"about/mahabodhi-international-meditation-centre.htm";a:14:{s:8:"fileName";s:51:"about/mahabodhi-international-meditation-centre.htm";s:7:"content";s:3823:"title = "About Us - Mahabodhi International Meditation Centre, Ladakh"
+url = "/about/mahabodhi-international-meditation-centre"
+layout = "default"
+meta_title = "About Us - Mahabodhi International Meditation Centre, Ladakh"
+meta_description = "About Us - Mahabodhi International Meditation Centre, Ladakh"
+is_hidden = 0
+seo_keywords = "About Us - Mahabodhi International Meditation Centre, Ladakh"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-10px-t margin-50px-b">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/about/mahabodhi-international-meditation-centre.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+      <p>
+        The Mahabodhi International Meditation Centre (MIMC) had its humble beginnings in one small rented room in Leh city in 1986 when Venerable Bhikkhu Sanghasena realized there was a great need to offer both humanitarian and spiritual services to the people of Ladakh. From there the centre moved to the main Devachan campus in Choglamsar which is on an impressive 200 acres of desert land in 1991. Against all odds, with no water, no proper roads and just harsh desert sand, through the tenacity, compassion and resourcefulness of Venerable Sanghasena and his team, the Mahabodhi Devachan campus began to grow and flourish and his dream slowly became a reality.
+      </p> 
+
+      <p>
+        Venerable Sanghasena realized that the main root cause of poverty and social unrest was illiteracy. He knew that when people were given proper holistic education, the cycle of poverty and social evils could be broken. With this in mind, he started the first residential school for underprivileged children who came from the far flung corners of Ladakh. From this initial project, other desperately needed humanitarian services were identified and added to the Devachan campus which now houses a home for the aged, visually impaired, a monastery, a nunnery, a meditation and yoga centre and so on.
+      </p> 
+
+      <p>
+        Today the Devachan campus has become a home and refuge for thousands of deserving people who live happily and peacefully together. A dedicated team of social workers, teachers, doctors, monks, nuns, community leaders and care-providers have created an integrated community at Devachan which provides comprehensive care to all segments of society: children, the elderly, special needs individuals, monks and nuns, the sick, as well as those seeking spiritual development. The community has become a model for the region through harmonious sustainable and ecological development. In fact, people from various parts of the world have come to learn and want to emulate a similar community in their own countries. With the continued support of likeminded sponsors from all over the world, we hope to be able to contribute our part towards this goal by serving the people of Ladakh. We welcome anyone who would also like to be a part of this initiative. 
+      </p>
+
+      <p>
+        MIMC is indeed a great example of one man's vision turning into reality. His great vision of love and compassion for the underprivileged people of Ladakh has been materialized in the very formation of MIMC. 
+      </p>
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/ven-bhikkhu-sanghasena' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625501839;s:6:"markup";s:3363:"<div class="container">
+  <div class="row main-content margin-10px-t margin-50px-b">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/about/mahabodhi-international-meditation-centre.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+      <p>
+        The Mahabodhi International Meditation Centre (MIMC) had its humble beginnings in one small rented room in Leh city in 1986 when Venerable Bhikkhu Sanghasena realized there was a great need to offer both humanitarian and spiritual services to the people of Ladakh. From there the centre moved to the main Devachan campus in Choglamsar which is on an impressive 200 acres of desert land in 1991. Against all odds, with no water, no proper roads and just harsh desert sand, through the tenacity, compassion and resourcefulness of Venerable Sanghasena and his team, the Mahabodhi Devachan campus began to grow and flourish and his dream slowly became a reality.
+      </p> 
+
+      <p>
+        Venerable Sanghasena realized that the main root cause of poverty and social unrest was illiteracy. He knew that when people were given proper holistic education, the cycle of poverty and social evils could be broken. With this in mind, he started the first residential school for underprivileged children who came from the far flung corners of Ladakh. From this initial project, other desperately needed humanitarian services were identified and added to the Devachan campus which now houses a home for the aged, visually impaired, a monastery, a nunnery, a meditation and yoga centre and so on.
+      </p> 
+
+      <p>
+        Today the Devachan campus has become a home and refuge for thousands of deserving people who live happily and peacefully together. A dedicated team of social workers, teachers, doctors, monks, nuns, community leaders and care-providers have created an integrated community at Devachan which provides comprehensive care to all segments of society: children, the elderly, special needs individuals, monks and nuns, the sick, as well as those seeking spiritual development. The community has become a model for the region through harmonious sustainable and ecological development. In fact, people from various parts of the world have come to learn and want to emulate a similar community in their own countries. With the continued support of likeminded sponsors from all over the world, we hope to be able to contribute our part towards this goal by serving the people of Ladakh. We welcome anyone who would also like to be a part of this initiative. 
+      </p>
+
+      <p>
+        MIMC is indeed a great example of one man's vision turning into reality. His great vision of love and compassion for the underprivileged people of Ladakh has been materialized in the very formation of MIMC. 
+      </p>
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/ven-bhikkhu-sanghasena' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:60:"About Us - Mahabodhi International Meditation Centre, Ladakh";s:3:"url";s:48:"/about/mahabodhi-international-meditation-centre";s:6:"layout";s:7:"default";s:10:"meta_title";s:60:"About Us - Mahabodhi International Meditation Centre, Ladakh";s:16:"meta_description";s:60:"About Us - Mahabodhi International Meditation Centre, Ladakh";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:60:"About Us - Mahabodhi International Meditation Centre, Ladakh";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

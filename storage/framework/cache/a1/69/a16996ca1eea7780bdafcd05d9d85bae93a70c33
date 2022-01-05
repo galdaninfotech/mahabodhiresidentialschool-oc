@@ -1,0 +1,55 @@
+1632626090a:1:{s:19:"news/newsletter.htm";a:15:{s:8:"fileName";s:19:"news/newsletter.htm";s:7:"content";s:875:"title = "Newsletter"
+url = "/news/newsletter"
+layout = "default"
+meta_title = "Newsletter"
+meta_description = "Newsletter"
+is_hidden = 0
+seo_keywords = "Newsletter"
+robot_index = "index"
+robot_follow = "follow"
+
+[newsSubscribe Subscribe]
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      {% component 'Subscribe' %}
+      
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/news' %}
+      {% partial 'sidebar/media' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1626486652;s:6:"markup";s:622:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      {% component 'Subscribe' %}
+      
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/news' %}
+      {% partial 'sidebar/media' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:10:"Newsletter";s:3:"url";s:16:"/news/newsletter";s:6:"layout";s:7:"default";s:10:"meta_title";s:10:"Newsletter";s:16:"meta_description";s:10:"Newsletter";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:10:"Newsletter";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:23:"newsSubscribe Subscribe";a:0:{}}}

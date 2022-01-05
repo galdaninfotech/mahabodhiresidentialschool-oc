@@ -1,0 +1,95 @@
+1632541129a:1:{s:43:"mahabodhi-sambodhi-retreat-centre/about.htm";a:14:{s:8:"fileName";s:43:"mahabodhi-sambodhi-retreat-centre/about.htm";s:7:"content";s:3652:"title = "About Us"
+url = "/mahabodhi-sambodhi-retreat-centre/about"
+layout = "default"
+meta_title = "About Us"
+meta_description = "About Us"
+is_hidden = 0
+seo_keywords = "About Us"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/mahabodhi-sambodhi-retreat-centre/mahabodhi-sambodhi-retreat-centre.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+        <p>Ladakh is the destination for seekers of truth and lover of peace. It is the land of prayer and meditation. Nestling in the lofty Himalayan Mountain in the northern India is the region of Ladakh. The snow-capped mountain peaks rise to touch the sky and the sky gently bends down to greet the earth where heaven and mountain meet. It is the land where humanity and religion sprang up together from the earth, where both live in harmony neither questioning nor threatening each other. Whenever the eye turns, the rock and the hills speak of the Buddha and his teachings. </p>
+
+        <p>The Mahabodhi International Meditation Centre is located 10 KM from the Kushok Bakula Rinpoche airport.</p>
+
+        <p>The incredibly beautiful Sambodhi Retreat Centre, an inspiring oasis of tranquil contemplation, is situated in a secluded corner of the transformative Mahabodhi International Meditation Centre campus in the mist of the picturesque thus offering placid energy for the individual’s inner growth.</p>
+
+        <p>The Centre is dominated by Rocky Mountains on one side and golden sand dunes on the other. The sweet scent of fragrant and jewel-like flowers, which line the footpaths of the Center, play joyfully on the senses, while enigmatic stupas, reclusive meditation kuties, abundant prayer flags, and the most sacred and eye-catching Milarepa rock cave provide silent spiritual encouragement. </p>
+
+        <p>The Sambodhi Retreat Centre is exceptionally well designed and very thoughtfully appointed. In fact, our most revered spiritual guide and meditation teacher, Venerable Bhikkhu Sanghasena, has personally overseen all aspects of the Centre’s design, construction and management with a singularly humanitarian vision: to create a unique, world-renowned contemplative venue, which is appealing to all seekers of truth and lovers of peace, irrespective of their religious inclinations, caste or creed. As a consequence, the Centre provides an incredibly warm welcome to all genuine seekers who are looking to incorporate timeless and universal spiritual truths into their daily lives.</p>
+
+
+        <blockquote class="blockquote">
+            <p class="mb-0"><b><i>"Meditation is experiencing Buddha-hood within oneself and compassion is radiation the boundless fragrance of that Buddha-hood in all direction for the benefits of all."</i></b></p>
+            <footer class="blockquote-footer text-right"><cite title="Source Title"><b><i>Bhikkhu Sanghasena</i></b> </cite></footer>
+        </blockquote>
+
+
+      
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-sambodhi-retreat-centre' %}
+      {% partial 'sidebar/mahabodhi-city-centre-changspa' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625511453;s:6:"markup";s:3408:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/mahabodhi-sambodhi-retreat-centre/mahabodhi-sambodhi-retreat-centre.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+        <p>Ladakh is the destination for seekers of truth and lover of peace. It is the land of prayer and meditation. Nestling in the lofty Himalayan Mountain in the northern India is the region of Ladakh. The snow-capped mountain peaks rise to touch the sky and the sky gently bends down to greet the earth where heaven and mountain meet. It is the land where humanity and religion sprang up together from the earth, where both live in harmony neither questioning nor threatening each other. Whenever the eye turns, the rock and the hills speak of the Buddha and his teachings. </p>
+
+        <p>The Mahabodhi International Meditation Centre is located 10 KM from the Kushok Bakula Rinpoche airport.</p>
+
+        <p>The incredibly beautiful Sambodhi Retreat Centre, an inspiring oasis of tranquil contemplation, is situated in a secluded corner of the transformative Mahabodhi International Meditation Centre campus in the mist of the picturesque thus offering placid energy for the individual’s inner growth.</p>
+
+        <p>The Centre is dominated by Rocky Mountains on one side and golden sand dunes on the other. The sweet scent of fragrant and jewel-like flowers, which line the footpaths of the Center, play joyfully on the senses, while enigmatic stupas, reclusive meditation kuties, abundant prayer flags, and the most sacred and eye-catching Milarepa rock cave provide silent spiritual encouragement. </p>
+
+        <p>The Sambodhi Retreat Centre is exceptionally well designed and very thoughtfully appointed. In fact, our most revered spiritual guide and meditation teacher, Venerable Bhikkhu Sanghasena, has personally overseen all aspects of the Centre’s design, construction and management with a singularly humanitarian vision: to create a unique, world-renowned contemplative venue, which is appealing to all seekers of truth and lovers of peace, irrespective of their religious inclinations, caste or creed. As a consequence, the Centre provides an incredibly warm welcome to all genuine seekers who are looking to incorporate timeless and universal spiritual truths into their daily lives.</p>
+
+
+        <blockquote class="blockquote">
+            <p class="mb-0"><b><i>"Meditation is experiencing Buddha-hood within oneself and compassion is radiation the boundless fragrance of that Buddha-hood in all direction for the benefits of all."</i></b></p>
+            <footer class="blockquote-footer text-right"><cite title="Source Title"><b><i>Bhikkhu Sanghasena</i></b> </cite></footer>
+        </blockquote>
+
+
+      
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-sambodhi-retreat-centre' %}
+      {% partial 'sidebar/mahabodhi-city-centre-changspa' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:8:"About Us";s:3:"url";s:40:"/mahabodhi-sambodhi-retreat-centre/about";s:6:"layout";s:7:"default";s:10:"meta_title";s:8:"About Us";s:16:"meta_description";s:8:"About Us";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:8:"About Us";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

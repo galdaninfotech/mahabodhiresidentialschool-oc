@@ -1,0 +1,103 @@
+1632541130a:1:{s:59:"mahabodhi-sambodhi-retreat-centre/shangri-la-meditation.htm";a:14:{s:8:"fileName";s:59:"mahabodhi-sambodhi-retreat-centre/shangri-la-meditation.htm";s:7:"content";s:2557:"title = "Shangri-la Meditation"
+url = "/mahabodhi-sambodhi-retreat-centre/shangri-la-meditation"
+layout = "default"
+meta_title = "Shangri-la Meditation"
+meta_description = "Shangri-la Meditation"
+is_hidden = 0
+seo_keywords = "Shangri-la Meditation"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/mahabodhi-sambodhi-retreat-centre/shangri-la-meditation.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <p>The Shangri-la Meditation course is designed to help people:</p>
+
+      <ul class="department-list">
+        <li>To find immediate physical and psychological relaxation.</li>
+        <li>To train and discipline the mind and use it positively, effectively and efficiently in daily life.</li>
+        <li>To develop tranquility, serenity and clarity of mind</li>
+        <li>To find practical solutions to the problems occurring in our daily lives.</li>
+        <li>To learn the art of living in this world peacefully, harmoniously, friendly, mindfully, creatively, positively, helping and serving, caring and sharing with each other’s without hurting and harming each other’s.</li>
+        <li>To help experience the ultimate bliss of Nirvana</li>
+      </ul>
+
+      <p>Immerse yourself in the transformative Shangri-la Meditation with Bhikkhu Sanghasena which will invite you to the immeasurable inner qualities of the awakened heart and mind. </p>
+
+      <h6>We Offers:</h6>
+      <ul class="department-list">
+        <li>Individual Self Retreat</li>
+        <li>Long & Short retreat</li>
+        <li>Yoga sessions</li>
+        <li>Shangri-La Meditation -Three days Retreat</li>
+        <li>Shangri-La Meditation -Seven days Retreat</li>
+        <li>On every Sunday Special chanting, guided meditation, Dhamma talks, devotional songs and celestial music’s.</li>
+      </ul>
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-sambodhi-retreat-centre' %}
+      {% partial 'sidebar/mahabodhi-city-centre-changspa' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625511778;s:6:"markup";s:2245:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/mahabodhi-sambodhi-retreat-centre/shangri-la-meditation.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <p>The Shangri-la Meditation course is designed to help people:</p>
+
+      <ul class="department-list">
+        <li>To find immediate physical and psychological relaxation.</li>
+        <li>To train and discipline the mind and use it positively, effectively and efficiently in daily life.</li>
+        <li>To develop tranquility, serenity and clarity of mind</li>
+        <li>To find practical solutions to the problems occurring in our daily lives.</li>
+        <li>To learn the art of living in this world peacefully, harmoniously, friendly, mindfully, creatively, positively, helping and serving, caring and sharing with each other’s without hurting and harming each other’s.</li>
+        <li>To help experience the ultimate bliss of Nirvana</li>
+      </ul>
+
+      <p>Immerse yourself in the transformative Shangri-la Meditation with Bhikkhu Sanghasena which will invite you to the immeasurable inner qualities of the awakened heart and mind. </p>
+
+      <h6>We Offers:</h6>
+      <ul class="department-list">
+        <li>Individual Self Retreat</li>
+        <li>Long & Short retreat</li>
+        <li>Yoga sessions</li>
+        <li>Shangri-La Meditation -Three days Retreat</li>
+        <li>Shangri-La Meditation -Seven days Retreat</li>
+        <li>On every Sunday Special chanting, guided meditation, Dhamma talks, devotional songs and celestial music’s.</li>
+      </ul>
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-sambodhi-retreat-centre' %}
+      {% partial 'sidebar/mahabodhi-city-centre-changspa' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:21:"Shangri-la Meditation";s:3:"url";s:56:"/mahabodhi-sambodhi-retreat-centre/shangri-la-meditation";s:6:"layout";s:7:"default";s:10:"meta_title";s:21:"Shangri-la Meditation";s:16:"meta_description";s:21:"Shangri-la Meditation";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:21:"Shangri-la Meditation";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

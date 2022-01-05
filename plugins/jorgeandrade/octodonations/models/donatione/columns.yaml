@@ -1,0 +1,45 @@
+# ===================================
+#  List Column Definitions
+# ===================================
+
+columns:
+    id:
+        label: Send Mail
+        searchable: true
+        type: partial
+        path: ~/plugins/jorgeandrade/octodonations/models/donatione/_content_email.htm
+    name:
+        label: Name
+        searchable: true
+    email:
+        label: Email
+        searchable: true
+    country:
+        label: Country
+        invisible: yes
+        searchable: true
+    comment:
+        label: Comments
+        invisible: yes
+    amount:
+        label: Amount
+        sortable: true
+        type: number
+    currency:
+        label: Currency
+        searchable: true
+    paymentid:
+        label: Payment Id
+        invisible: yes
+    is_complete:
+        label: Completed
+        sortable: true
+        type: switch
+    is_cancel:
+        label: Canceled
+        sortable: true
+        type: switch
+    created_at:
+        label: Created
+        sortable: true
+        type: datetime

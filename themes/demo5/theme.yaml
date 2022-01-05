@@ -1,0 +1,9 @@
+name: Demo5
+description: A plain starter template that implements account management, a blog and community forum.
+author: Galdan Infotech
+homepage: 'http://galdaninfotech.com'
+code: Demo5
+require:
+    - RainLab.User
+    - RainLab.Blog
+    - RainLab.Forum

@@ -1,0 +1,99 @@
+1632541128a:1:{s:35:"education/mahabodhi-boys-hostel.htm";a:14:{s:8:"fileName";s:35:"education/mahabodhi-boys-hostel.htm";s:7:"content";s:4483:"title = "Mahabodhi Boys Hostel"
+url = "/education/mahabodhi-boys-hostel"
+layout = "default"
+meta_title = "Mahabodhi Boys Hostel"
+meta_description = "Mahabodhi Boys Hostel"
+is_hidden = 0
+seo_keywords = "Mahabodhi Boys Hostel"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/about/management-committee.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <h6>HOW AND WHEN:</h6>
+      <p>Mahabodhi Boys hostel was established in 1997 with 10 boys. while uplifting the status of the girls child was ne of the primary mission of Ven.Sangasena but the need to extent the similar facilities to the boys belonging to poor families was also realised which led to the established of the Mahabodhi Hostel for the Boys. The work for the construction of the hostel began in 1996 with its first batch 10 boys belonging to poor families of zangsker, Nubra, changthang and Leh, today the hostel has more than 100 boys approximately 70 different villages of Ladakh in a natural family like structure embedded with brotherhood, love, co-operation and mutual understanding.</p>
+
+      <p>They are looked after by the warden, in charge, and the foster mothers. And as they would do in a family environment, the child are encourage to clean and arrange their own rooms, help in gardening and participate in many of the Devachan social events. The feeling of a shared responsibility and accountability towards each other’s peaceful living in inculcates in them through the compassionate and blissful teaching of the Buddha.</p>
+
+      <p>Every year we admit students in our hostels and we require sponsors for newly admitted children. Total amount for sponsoring a child is Rs. 3500/-which cover entire their boarding lodging, food, medicine, education, uniform, stationary etc. for a year. </p>
+
+      <h6>PRESENT SCENARIO:</h6>
+      <p>At present there are around 100 students who come from approximately 70 different villages of Ladakh, living like a brother, in a homely environment surrounded by love, care and genuine concern.</p>
+
+      <p>Education is a crucial key to helping eradicate poverty and we are fully committed towards fulfilling this dream and objective of Venerable Sanghasena.</p>
+
+      <h6>FUTERE PLAN:</h6>
+      <p>To extend the existing facilities to accommodate at least 200 boys, ensuring no child is deprived of an education through a lack of facilities or resources. there is also a need to expand the current facilities in order to accommodate students who are coming to join the school from our Tingmosgang and Bodhkhabu branch school in the coming years.</p>
+
+      <p>Both the Boys and the Girls hostels are functioning extremely well with around 100 boys at the boys hostel and 120 girls at the Girls hostel who come from different village. Every year during the admission period in October, the selection committee face an extremely difficult time as it has to turn away many children simply because there is shortage of accommodation space for them at the hostel. There are many heart wrenching stories told as families from very remote villages have had to walk for miles just to catch public transport, arrive at the school only to be told that their child cannot gain admission to the hostels.One of the immediate goals is to expand our hostel facilities to admit up to 200 boys and 200 girls each but this of course is possible only through adequate funds being made available for the project. We would like to appeal to any philanthropic individual or organisation that might be interested in supporting this deserving project.</p>
+
+      <p>“Illiteracy and the poverty are the biggest enemies of mankind;they mst be fought and conquered at any cost”</p>
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625505578;s:6:"markup";s:4195:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/about/management-committee.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <h6>HOW AND WHEN:</h6>
+      <p>Mahabodhi Boys hostel was established in 1997 with 10 boys. while uplifting the status of the girls child was ne of the primary mission of Ven.Sangasena but the need to extent the similar facilities to the boys belonging to poor families was also realised which led to the established of the Mahabodhi Hostel for the Boys. The work for the construction of the hostel began in 1996 with its first batch 10 boys belonging to poor families of zangsker, Nubra, changthang and Leh, today the hostel has more than 100 boys approximately 70 different villages of Ladakh in a natural family like structure embedded with brotherhood, love, co-operation and mutual understanding.</p>
+
+      <p>They are looked after by the warden, in charge, and the foster mothers. And as they would do in a family environment, the child are encourage to clean and arrange their own rooms, help in gardening and participate in many of the Devachan social events. The feeling of a shared responsibility and accountability towards each other’s peaceful living in inculcates in them through the compassionate and blissful teaching of the Buddha.</p>
+
+      <p>Every year we admit students in our hostels and we require sponsors for newly admitted children. Total amount for sponsoring a child is Rs. 3500/-which cover entire their boarding lodging, food, medicine, education, uniform, stationary etc. for a year. </p>
+
+      <h6>PRESENT SCENARIO:</h6>
+      <p>At present there are around 100 students who come from approximately 70 different villages of Ladakh, living like a brother, in a homely environment surrounded by love, care and genuine concern.</p>
+
+      <p>Education is a crucial key to helping eradicate poverty and we are fully committed towards fulfilling this dream and objective of Venerable Sanghasena.</p>
+
+      <h6>FUTERE PLAN:</h6>
+      <p>To extend the existing facilities to accommodate at least 200 boys, ensuring no child is deprived of an education through a lack of facilities or resources. there is also a need to expand the current facilities in order to accommodate students who are coming to join the school from our Tingmosgang and Bodhkhabu branch school in the coming years.</p>
+
+      <p>Both the Boys and the Girls hostels are functioning extremely well with around 100 boys at the boys hostel and 120 girls at the Girls hostel who come from different village. Every year during the admission period in October, the selection committee face an extremely difficult time as it has to turn away many children simply because there is shortage of accommodation space for them at the hostel. There are many heart wrenching stories told as families from very remote villages have had to walk for miles just to catch public transport, arrive at the school only to be told that their child cannot gain admission to the hostels.One of the immediate goals is to expand our hostel facilities to admit up to 200 boys and 200 girls each but this of course is possible only through adequate funds being made available for the project. We would like to appeal to any philanthropic individual or organisation that might be interested in supporting this deserving project.</p>
+
+      <p>“Illiteracy and the poverty are the biggest enemies of mankind;they mst be fought and conquered at any cost”</p>
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:21:"Mahabodhi Boys Hostel";s:3:"url";s:32:"/education/mahabodhi-boys-hostel";s:6:"layout";s:7:"default";s:10:"meta_title";s:21:"Mahabodhi Boys Hostel";s:16:"meta_description";s:21:"Mahabodhi Boys Hostel";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:21:"Mahabodhi Boys Hostel";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

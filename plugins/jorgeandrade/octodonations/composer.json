@@ -1,0 +1,16 @@
+{
+    "name": "jorgeandrade/octodonations",
+    "description": "PayPal Donations integration plugin for OctoberCMS",
+    "homepage": "http://andradedev.com",
+    "keywords": ["october", "cms", "jorgeandrade", "paypal", "donations"],
+    "authors": [
+        {
+            "name": "Jorge Andrade",
+            "email": "j.andrade@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "paypal/rest-api-sdk-php": "*"
+    }
+}

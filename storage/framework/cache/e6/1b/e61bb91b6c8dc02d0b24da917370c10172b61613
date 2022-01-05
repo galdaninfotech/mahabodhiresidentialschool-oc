@@ -1,0 +1,97 @@
+1629773694a:1:{s:31:"social-welfare/old-age-home.htm";a:14:{s:8:"fileName";s:31:"social-welfare/old-age-home.htm";s:7:"content";s:2888:"title = "Old Age Home"
+url = "/social-welfare/old-age-home"
+layout = "default"
+meta_title = "Old Age Home"
+meta_description = "Old Age Home"
+is_hidden = 0
+seo_keywords = "Old Age Home"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/social-welfare/old-age-home.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+      <p>
+        In trying to translate the compassion of Buddha into action, the Mahabodhi Maitri Geriatric Home for the Aged, Destitute and Disabled was started in 1995.
+      </p>
+
+      <p>
+        Through the selfless blessings and tireless endeavour of Bhikkhu Sanghasena, who conceived of and created a beautiful home within the unique setting of the Mahabodhi Devachan Campus, and because of the incredibly generous support and love of kind wonderful people, the elderly people are able to spend the last, and most vulnerable, days of their lives in the relative safety, warmth, comfort and security of the Mahabodhi Maitri Geriatric Home (MMGH) – what is, truly, “A home away from home.” 
+      </p>
+
+      <p>
+        The main objective behind this humble initiatives is to render a service or a helping hand for the elderly and physically handicapped who are either abandoned or have nobody to look after in them.  They are given all the love, affection and necessary equipment’s required and essential for them at this stage of life. 
+      </p>
+
+      <p>
+        This home is one of its kinds in entire Ladakh. The home provides an environment resident in all respect in catering to the limited need and maximum happiness of the inmates. Presently 35 elderly and physically handicapped young adults are residing at our Mahabodhi Maitri Geriatric and with the humble donations and support we wish to expand the facilities to 100 elderly and homeless people in this region of Himalaya.
+      </p>
+
+      <p>
+        We extend our thanks and gratitude to many wonderful and kind people for their  incredibly generous and compassionate support of the homeless, elderly and differently-abled residents here at the Mahabodhi Maitri Geriatric Home (MMGH).
+      </p>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625508703;s:6:"markup";s:2640:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/social-welfare/old-age-home.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+      <p>
+        In trying to translate the compassion of Buddha into action, the Mahabodhi Maitri Geriatric Home for the Aged, Destitute and Disabled was started in 1995.
+      </p>
+
+      <p>
+        Through the selfless blessings and tireless endeavour of Bhikkhu Sanghasena, who conceived of and created a beautiful home within the unique setting of the Mahabodhi Devachan Campus, and because of the incredibly generous support and love of kind wonderful people, the elderly people are able to spend the last, and most vulnerable, days of their lives in the relative safety, warmth, comfort and security of the Mahabodhi Maitri Geriatric Home (MMGH) – what is, truly, “A home away from home.” 
+      </p>
+
+      <p>
+        The main objective behind this humble initiatives is to render a service or a helping hand for the elderly and physically handicapped who are either abandoned or have nobody to look after in them.  They are given all the love, affection and necessary equipment’s required and essential for them at this stage of life. 
+      </p>
+
+      <p>
+        This home is one of its kinds in entire Ladakh. The home provides an environment resident in all respect in catering to the limited need and maximum happiness of the inmates. Presently 35 elderly and physically handicapped young adults are residing at our Mahabodhi Maitri Geriatric and with the humble donations and support we wish to expand the facilities to 100 elderly and homeless people in this region of Himalaya.
+      </p>
+
+      <p>
+        We extend our thanks and gratitude to many wonderful and kind people for their  incredibly generous and compassionate support of the homeless, elderly and differently-abled residents here at the Mahabodhi Maitri Geriatric Home (MMGH).
+      </p>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:12:"Old Age Home";s:3:"url";s:28:"/social-welfare/old-age-home";s:6:"layout";s:7:"default";s:10:"meta_title";s:12:"Old Age Home";s:16:"meta_description";s:12:"Old Age Home";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:12:"Old Age Home";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

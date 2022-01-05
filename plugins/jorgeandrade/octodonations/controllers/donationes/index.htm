@@ -1,0 +1,38 @@
+<div class="scoreboard">
+    <div data-control="toolbar">
+
+        <div class="scoreboard-item control-chart" data-control="chart-pie" data-center-text="<?= $completed + $uncompleted + $canceled; ?>">
+            <ul>
+                <li data-color="#95b753">Completed <span><?= $completed; ?></span></li>
+                <li data-color="#e5a91a">Uncompleted <span><?= $uncompleted; ?></span></li>
+                <li data-color="#cc3300">Canceled <span><?= $canceled; ?></span></li>
+            </ul>
+        </div>
+
+        <div class="scoreboard-item control-chart" data-control="chart-pie" data-center-text="$">
+            <ul>
+                <li data-color="#95b753">Earned <span><?= $totalEarned; ?></span></li>
+                <li data-color="#e5a91a">Lost <span><?= $totalLost; ?></span></li>
+            </ul>
+        </div>
+
+		<div class="scoreboard-item title-value">
+		    <h4>Month Amount</h4>
+		    <p class="positive"><?= $totalEarnedMonth; ?></p>
+		    <p class="description">Last Month: <?= $EarnedLastMonth;?></p>
+		</div>
+
+		<div class="scoreboard-item title-value">
+		    <h4>Month Amount</h4>
+		    <p class="negative"><?= $totalLostMonth; ?></p>
+		    <p class="description">Last Month: <?= $LostLastMonth;?></p>
+		</div>
+
+		<!-- <div class="scoreboard-item title-value">
+		    <h4>Best Donor of month</h4>
+		    <p class="oc-icon-star">John Smith</p>
+		    <p class="description">Amount: 300</p>
+		</div> -->
+    </div>
+</div>
+<?= $this->listRender() ?>

@@ -1,0 +1,18 @@
+<?php namespace AnandPatel\SeoExtension\classes;
+
+
+use Request;
+class MyMetaTags {
+
+    public $tags;
+
+    public function __construct()
+    {
+        $this->tags = '';
+    }
+
+    public function myMetaTags() {
+        $this->tags = '<meta name="title" content="{{ post.title }} - {{company}}">';
+        return $this-tags;
+    }
+}

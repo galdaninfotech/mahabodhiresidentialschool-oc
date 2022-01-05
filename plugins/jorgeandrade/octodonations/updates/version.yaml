@@ -1,0 +1,4 @@
+1.0.1:
+    - First version of OctoDonations
+    - create_donationes_table.php
+    - SeedMailLayoutTable.php

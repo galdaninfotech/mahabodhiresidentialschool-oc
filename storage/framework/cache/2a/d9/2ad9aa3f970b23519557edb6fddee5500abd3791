@@ -1,0 +1,21 @@
+1626488412a:1:{s:42:"sidebar/mahabodhi-city-centre-changspa.htm";a:5:{s:8:"fileName";s:42:"sidebar/mahabodhi-city-centre-changspa.htm";s:7:"content";s:640:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">Mahabodhi City Centre Changspa</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('/mahabodhi-city-centre-changspa/introduction')}}">Introduction</a></li>
+        <li><a href="{{url('/mahabodhi-city-centre-changspa/yoga-and-meditation-classes')}}">Yoga & Meditation Classes</a></li>
+        <li><a href="{{url('/mahabodhi-city-centre-changspa/mimc-campus-tour')}}">MIMC Campus Tour</a></li>
+      </ul>
+    </nav>
+  </div>";s:5:"mtime";i:1616027575;s:6:"markup";s:640:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">Mahabodhi City Centre Changspa</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('/mahabodhi-city-centre-changspa/introduction')}}">Introduction</a></li>
+        <li><a href="{{url('/mahabodhi-city-centre-changspa/yoga-and-meditation-classes')}}">Yoga & Meditation Classes</a></li>
+        <li><a href="{{url('/mahabodhi-city-centre-changspa/mimc-campus-tour')}}">MIMC Campus Tour</a></li>
+      </ul>
+    </nav>
+  </div>";s:4:"code";N;}}

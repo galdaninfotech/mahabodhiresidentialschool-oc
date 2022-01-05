@@ -1,0 +1,65 @@
+1632541129a:1:{s:40:"mahabodhi-residential-school/history.htm";a:14:{s:8:"fileName";s:40:"mahabodhi-residential-school/history.htm";s:7:"content";s:2512:"title = "History"
+url = "/mahabodhi-residential-school/history"
+layout = "default"
+meta_title = "History"
+meta_description = "History"
+is_hidden = 0
+seo_keywords = "History"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <p>The Mahabodhi Residential School was established in the year 1992 with just 25 girls selected from the most remote and ignored regions of Ladakh. Today the school has grown huge and has a total of 510 students pursuing their studies from class nursery to 10th standard. It is affiliated to the Central Board of Secondary Education (CBSE), New Delhi and has successfully established its sister branches in three of the most inaccessible villages of Ladakh embracing yet another 350 students under its care and guidance. It is run by the Mahabodhi International Meditation Centre and managed by the Mahabodhi School Managing Committee under the vibrant chairmanship of most Ven. Sanghasena Mahathera.</p>
+
+      <p>Geographically situated at the crown of India in Ladakh region of Jammu and Kashmir, the Mahabodhi Residential School is a natural and tranquil institution away from the din of the city which fosters an ideal educational environment for both students and the teachers. Amidst the beautiful snow capped mountains of Ladakh, the school nurtures the life of students coming together from the widespread hamlets in the valley of Ladakh. It is a unique school where young monks, nuns, boys, girls and the visually impaired children receive secular education without any biases and differences.</p>
+
+      <h6>Message from the Chairman</h6>
+      <p>“Mahabodhi education programme aims to reform the existing information and job-oriented education in such a way that the students grow physically strong, mentally brilliant, culturally rich, morally lofty, spiritually enlightening, environmentally friendly, and globally peaceful.”</p>
+      <strong>-by<i> Ven. Sanghasena</i></strong>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-residential-school' %}
+
+
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1626447443;s:6:"markup";s:2275:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <p>The Mahabodhi Residential School was established in the year 1992 with just 25 girls selected from the most remote and ignored regions of Ladakh. Today the school has grown huge and has a total of 510 students pursuing their studies from class nursery to 10th standard. It is affiliated to the Central Board of Secondary Education (CBSE), New Delhi and has successfully established its sister branches in three of the most inaccessible villages of Ladakh embracing yet another 350 students under its care and guidance. It is run by the Mahabodhi International Meditation Centre and managed by the Mahabodhi School Managing Committee under the vibrant chairmanship of most Ven. Sanghasena Mahathera.</p>
+
+      <p>Geographically situated at the crown of India in Ladakh region of Jammu and Kashmir, the Mahabodhi Residential School is a natural and tranquil institution away from the din of the city which fosters an ideal educational environment for both students and the teachers. Amidst the beautiful snow capped mountains of Ladakh, the school nurtures the life of students coming together from the widespread hamlets in the valley of Ladakh. It is a unique school where young monks, nuns, boys, girls and the visually impaired children receive secular education without any biases and differences.</p>
+
+      <h6>Message from the Chairman</h6>
+      <p>“Mahabodhi education programme aims to reform the existing information and job-oriented education in such a way that the students grow physically strong, mentally brilliant, culturally rich, morally lofty, spiritually enlightening, environmentally friendly, and globally peaceful.”</p>
+      <strong>-by<i> Ven. Sanghasena</i></strong>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-residential-school' %}
+
+
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:7:"History";s:3:"url";s:37:"/mahabodhi-residential-school/history";s:6:"layout";s:7:"default";s:10:"meta_title";s:7:"History";s:16:"meta_description";s:7:"History";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:7:"History";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

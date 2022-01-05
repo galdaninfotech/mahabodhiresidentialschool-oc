@@ -1,0 +1,86 @@
+{% set biketype = __SELF__.bikeType %}
+{% if hasBikeType %}
+
+{% put meta %}
+
+{% default %}
+
+{% if post.redirect_url %}
+    <meta http-equiv="refresh" content="0; url={{post.redirect_url}}" />
+{% endif %}
+
+{% if post.seo_title %}
+    <title>{{ post.seo_title | generateTitle}}</title>
+{% else %}
+    <title>{{ bikeType.name | generateTitle }} - BikeTypeeeeeeeeeeeeee</title>
+{% endif %}
+
+{% if biketype.seo_description %}
+    <meta name="description" content="{{biketype.seo_description}}">
+{% else %}
+    <meta name="description" content="{{bikeType.description}}">
+{% endif %}
+
+{% if post.seo_keywords %}
+    <meta name="keywords" content="{{post.seo_keywords}}">
+{% else %}
+    <meta name="keywords" content="{{ bikeType.name | generateTitle }}">
+{% endif %}
+
+{% if post.canonical_url %}
+    <link rel="canonical" href="{{post.canonical_url}}" />
+{% else %}
+    {{ '' | generateCanonicalUrl}}
+{% endif %}
+
+    <meta name="robots" content="{{post.robot_index}},{{post.robot_follow}}">
+ 
+
+
+
+<meta name="title" content="{{ bikeType.name | generateTitle }}">
+<meta name="author" content="{{company}}">
+<meta name="generator" content="Galdan Infotech">
+<meta name='copyright' content='{{company}}'>
+<meta name='owner' content='{{company}}'>
+
+<meta name="twitter:widgets:csp" content="on">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://{{company_sm}}.com/demo/xmlrpc.php">
+<meta name='url' content='http://www.{{company_sm}}.com'>
+<meta name='identifier-URL' content='http://www.{{company_sm}}.com'>
+<meta name='topic' content='{{post.title}}'>
+<meta name='subtitle' content='{{post.description}}'>
+<meta name='summary' content='{{post.description}}'>
+<meta name='Classification' content='Travel'>
+
+<meta name='language' content='ES'>
+<meta name='robots' content='index,follow'>
+<meta name='revised' content='{{ "now"|date_modify('-1 day')|date('Y-m-d') }}'>
+<meta name='abstract' content=''>
+<meta name='author' content='Galdan Infotech, info@gldaninfotech.com'>
+<meta name='designer' content='Galdan Infotech'>
+<meta name="generator" content="Galdan Infotech">
+<meta name='directory' content='submission'>
+<meta name='pagename' content='{{ bikeType.name | generateTitle }}'>
+<meta name='category' content=''>
+<meta name='coverage' content='Worldwide'>
+<meta name='distribution' content='Global'>
+<meta name='rating' content='General'>
+<meta name='revisit-after' content='7 days'>
+<meta name='target' content='all'>
+<meta name='HandheldFriendly' content='True'>
+<meta name='MobileOptimized' content='320'>
+<meta name='date' content='{{ "now"|date_modify('-4 day')|date('Y-m-d') }}'>
+<meta name='search_date' content='{{ "now"|date_modify('-4 day')|date('Y-m-d') }}'>
+<meta name='ResourceLoaderDynamicStyles' content=''>
+
+
+
+{{ ''|otherMetaTags|raw }}
+
+{{ post|generateOgTags }}
+
+
+{% endput %}
+{% endif %}

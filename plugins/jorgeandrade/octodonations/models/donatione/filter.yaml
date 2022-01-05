@@ -1,0 +1,6 @@
+scopes:
+    is_live:
+        label: Show live transactions
+        type: checkbox
+        scope: IsLive
+        conditions: is_live <> 1

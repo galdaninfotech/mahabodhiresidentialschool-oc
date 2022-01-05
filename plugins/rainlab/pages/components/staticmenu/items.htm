@@ -1,0 +1,25 @@
+
+{% for item in items if not item.viewBag.isHidden %}
+
+        {% if item.items %}
+            <li class="nav-item dropdown">
+                {% if item.url %}
+                    <a class="dropdown-item dropdown-toggle" href="{{ item.url }}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" {{ item.viewBag.isExternal ? 'target="_blank"' }}>{{ item.title }}
+                    </a>
+                {% else %}
+                    <span>{{ item.title }}</span>
+                {% endif %}
+                <ul class="dropdown-menu {{ item.viewBag.cssClass }} bg-primary" aria-labelledby="navbarDropdown">{% partial __SELF__ ~ "::items" items=item.items %}</ul>
+            </li>
+        {% else %}
+            <li>
+                {% if item.url %}
+                <a class="dropdown-item" href="{{ item.url }}">{{ item.title }}</a>
+                {% else %}
+                <span>{{ item.title }}</span>
+                {% endif %}
+            </li>
+        {% endif %}
+    
+{% endfor %}
+

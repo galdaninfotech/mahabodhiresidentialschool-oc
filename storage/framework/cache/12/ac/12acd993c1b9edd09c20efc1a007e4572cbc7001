@@ -1,0 +1,103 @@
+1632541131a:1:{s:52:"sustainable-development-project/mahabodhi-studio.htm";a:14:{s:8:"fileName";s:52:"sustainable-development-project/mahabodhi-studio.htm";s:7:"content";s:2165:"title = "Mahabodhi Studio"
+url = "/sustainable-development-project/mahabodhi-studio"
+layout = "default"
+meta_title = "Mahabodhi Studio"
+meta_description = "Mahabodhi Studio"
+is_hidden = 0
+seo_keywords = "Mahabodhi Studio"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/sustainable-development-project/eco-development-project.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+      
+      <p>
+        The Mahabodhi organization believes in presenting Ladakh’s culture and Buddhist history through cinema.
+      </p>
+
+      <p>
+        MIMC Zita and Horst Norbert studio aims in producing documentaries and films on the Mahabodhi community, Ladakh and Buddhist related videos, creates videos and audios for the promotion of rich Ladakh art & culture giving opportunities to the budding talent of Ladakh to pursue careers in such areas.
+      </p>
+
+      <p>
+        We are trying to produce many traditional music, hymn, and chanting and recordings for that we are seeking some financial assistance from the Govt. and well wishers.
+      </p>
+
+      <p>
+        We are also encouraging our students especially the drop out ones to take part in this lively extracurricular activity.
+      </p>
+
+      <p>
+        Apart from the direction for the self sustenance, this studio will be boon to school dropout students to showcase their talents.
+      </p>
+
+      <p></p>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/sustainable-development-project' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/education' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625509650;s:6:"markup";s:1880:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/sustainable-development-project/eco-development-project.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+      
+      <p>
+        The Mahabodhi organization believes in presenting Ladakh’s culture and Buddhist history through cinema.
+      </p>
+
+      <p>
+        MIMC Zita and Horst Norbert studio aims in producing documentaries and films on the Mahabodhi community, Ladakh and Buddhist related videos, creates videos and audios for the promotion of rich Ladakh art & culture giving opportunities to the budding talent of Ladakh to pursue careers in such areas.
+      </p>
+
+      <p>
+        We are trying to produce many traditional music, hymn, and chanting and recordings for that we are seeking some financial assistance from the Govt. and well wishers.
+      </p>
+
+      <p>
+        We are also encouraging our students especially the drop out ones to take part in this lively extracurricular activity.
+      </p>
+
+      <p>
+        Apart from the direction for the self sustenance, this studio will be boon to school dropout students to showcase their talents.
+      </p>
+
+      <p></p>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/sustainable-development-project' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/education' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:16:"Mahabodhi Studio";s:3:"url";s:49:"/sustainable-development-project/mahabodhi-studio";s:6:"layout";s:7:"default";s:10:"meta_title";s:16:"Mahabodhi Studio";s:16:"meta_description";s:16:"Mahabodhi Studio";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:16:"Mahabodhi Studio";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

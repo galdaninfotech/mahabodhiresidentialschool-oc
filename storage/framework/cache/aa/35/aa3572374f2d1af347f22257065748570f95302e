@@ -1,0 +1,73 @@
+1640587053a:1:{s:12:"mainmenu.htm";a:6:{s:8:"fileName";s:12:"mainmenu.htm";s:7:"content";s:1546:"==
+function onInit()
+{
+    $this['activeMenuItem'] = 'home';
+}
+==
+
+<nav class="navbar navbar-expand-lg navbar-light" id="main_navbar">
+	<a class="logo active" href="javascript:void(0);" data-scroll-nav="0">
+		<img src="{{'assets/images/logo-light.png'|theme}}" alt="Mahabodhi International Meditation Centre" title="Mahabodhi International Meditation Centre">
+	</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	  <span class="navbar-toggler-icon"></span>
+	</button>
+  
+	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+		<ul class="navbar-nav ml-auto">
+			{% for item in staticMenu.menuItems %}
+				{% if item.items %}
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="{{ item.url }}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" {{ item.viewBag.isExternal ? 'target="_blank"' }}>{{ item.title }}
+						</a>
+						<ul class="dropdown-menu bg-primary" aria-labelledby="navbarDropdown">{% partial __SELF__ ~ "::items" items=item.items count=count %}</ul>
+					</li>
+				{% else %}
+				<li class="nav-item dropdown">
+					{% if item.url %}
+					<a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+					{% else %}
+					<span>{{ item.title }}</span>
+					{% endif %}
+				</li>
+				{% endif %}
+			{% endfor %}
+		
+		</ul>
+	</div>
+  </nav>
+
+";s:5:"mtime";i:1625379184;s:6:"markup";s:1468:"<nav class="navbar navbar-expand-lg navbar-light" id="main_navbar">
+	<a class="logo active" href="javascript:void(0);" data-scroll-nav="0">
+		<img src="{{'assets/images/logo-light.png'|theme}}" alt="Mahabodhi International Meditation Centre" title="Mahabodhi International Meditation Centre">
+	</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	  <span class="navbar-toggler-icon"></span>
+	</button>
+  
+	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+		<ul class="navbar-nav ml-auto">
+			{% for item in staticMenu.menuItems %}
+				{% if item.items %}
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="{{ item.url }}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" {{ item.viewBag.isExternal ? 'target="_blank"' }}>{{ item.title }}
+						</a>
+						<ul class="dropdown-menu bg-primary" aria-labelledby="navbarDropdown">{% partial __SELF__ ~ "::items" items=item.items count=count %}</ul>
+					</li>
+				{% else %}
+				<li class="nav-item dropdown">
+					{% if item.url %}
+					<a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+					{% else %}
+					<span>{{ item.title }}</span>
+					{% endif %}
+				</li>
+				{% endif %}
+			{% endfor %}
+		
+		</ul>
+	</div>
+  </nav>";s:4:"code";s:62:"function onInit()
+{
+    $this['activeMenuItem'] = 'home';
+}";s:17:"_PARSER_ERROR_INI";s:0:"";}}

@@ -1,0 +1,87 @@
+1632541128a:1:{s:40:"education/higher-education-programme.htm";a:14:{s:8:"fileName";s:40:"education/higher-education-programme.htm";s:7:"content";s:2612:"title = "Higher Education Programme"
+url = "/education/higher-education-programme"
+layout = "default"
+meta_title = "Higher Education Programme"
+meta_description = "Higher Education Programme"
+is_hidden = 0
+seo_keywords = "Higher Education Programme"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/education/higher-education-programme.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+      <p>
+        Over the last two decades, there has been a positive major overhaul of the school education system in Ladakh with the help of private institutions and organizations keen to help in the economic and social development of the region.
+      </p>
+      <p>
+        However despite this, the students who complete their schooling here face several problems when they move to other parts of India to pursue higher education. This is because Ladakh has its own unique culture and language and the students find it difficult to gain entry into institutions outside of Ladakh. By keeping this in mind Mahabodhi started a Higher Education program which aims to help the students who like to pursue their higher education in colleges and universities in the places like Chandigarh, Jammu, Delhi, Bangalore, etc. Mahabodhi would certainly like to see a great many more students pursue their further education in the many fine higher learning institutions throughout India or overseas.
+      </p>
+      <p>
+        However this needs careful planning and adequate funding and we sincerely appeal to well-wishes to help us in this noble cause as most certainly, education is the key to economic and social freedom for the needy.
+      </p>
+      <p>
+        Your charity dollars would help bring much needed new skills and technologies back when these young people finish their studies and return to Ladakh.
+      </p>
+
+      <p></p>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625505984;s:6:"markup";s:2299:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/education/higher-education-programme.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+      <p>
+        Over the last two decades, there has been a positive major overhaul of the school education system in Ladakh with the help of private institutions and organizations keen to help in the economic and social development of the region.
+      </p>
+      <p>
+        However despite this, the students who complete their schooling here face several problems when they move to other parts of India to pursue higher education. This is because Ladakh has its own unique culture and language and the students find it difficult to gain entry into institutions outside of Ladakh. By keeping this in mind Mahabodhi started a Higher Education program which aims to help the students who like to pursue their higher education in colleges and universities in the places like Chandigarh, Jammu, Delhi, Bangalore, etc. Mahabodhi would certainly like to see a great many more students pursue their further education in the many fine higher learning institutions throughout India or overseas.
+      </p>
+      <p>
+        However this needs careful planning and adequate funding and we sincerely appeal to well-wishes to help us in this noble cause as most certainly, education is the key to economic and social freedom for the needy.
+      </p>
+      <p>
+        Your charity dollars would help bring much needed new skills and technologies back when these young people finish their studies and return to Ladakh.
+      </p>
+
+      <p></p>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/education' %}
+      {% partial 'sidebar/social-welfare' %}
+      {% partial 'sidebar/sustainable-development-project' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:26:"Higher Education Programme";s:3:"url";s:37:"/education/higher-education-programme";s:6:"layout";s:7:"default";s:10:"meta_title";s:26:"Higher Education Programme";s:16:"meta_description";s:26:"Higher Education Programme";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:26:"Higher Education Programme";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

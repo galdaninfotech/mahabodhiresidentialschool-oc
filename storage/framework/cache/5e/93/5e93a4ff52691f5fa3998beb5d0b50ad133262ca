@@ -1,0 +1,25 @@
+1629773696a:1:{s:34:"sidebar/ven-bhikkhu-sanghasena.htm";a:5:{s:8:"fileName";s:34:"sidebar/ven-bhikkhu-sanghasena.htm";s:7:"content";s:785:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">Ven Bikkhu sanghasena</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('ven-bhikkhu-sanghasena/ven-bhikkhu-sanghasena')}}">Ven Bikkhu sanghasena</a></li>
+        <li><a href="{{url('ven-bhikkhu-sanghasena/timeline')}}">Timeline</a></li>
+        <li><a href="{{url('ven-bhikkhu-sanghasena/awards-and-accolades')}}">Awards and Accolades</a></li>
+        <li><a href="{{url('ven-bhikkhu-sanghasena/previous-positions')}}">Previous Positions</a></li>
+        <li><a href="{{url('ven-bhikkhu-sanghasena/itinerary')}}">Itinerary</a></li>
+      </ul>
+    </nav>
+  </div>";s:5:"mtime";i:1616027269;s:6:"markup";s:785:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">Ven Bikkhu sanghasena</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('ven-bhikkhu-sanghasena/ven-bhikkhu-sanghasena')}}">Ven Bikkhu sanghasena</a></li>
+        <li><a href="{{url('ven-bhikkhu-sanghasena/timeline')}}">Timeline</a></li>
+        <li><a href="{{url('ven-bhikkhu-sanghasena/awards-and-accolades')}}">Awards and Accolades</a></li>
+        <li><a href="{{url('ven-bhikkhu-sanghasena/previous-positions')}}">Previous Positions</a></li>
+        <li><a href="{{url('ven-bhikkhu-sanghasena/itinerary')}}">Itinerary</a></li>
+      </ul>
+    </nav>
+  </div>";s:4:"code";N;}}

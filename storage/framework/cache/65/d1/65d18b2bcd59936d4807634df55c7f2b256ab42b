@@ -1,0 +1,57 @@
+1634654267a:1:{s:11:"contact.htm";a:15:{s:8:"fileName";s:11:"contact.htm";s:7:"content";s:857:"title = "Contact"
+url = "/contact"
+layout = "default"
+meta_title = "Contact Us"
+meta_description = "Contact Us"
+is_hidden = 0
+seo_keywords = "Contact Us"
+robot_index = "index"
+robot_follow = "follow"
+
+[contact]
+
+
+
+==
+
+<div class="container mt-3 primary-heading">
+  <div class="row">
+    <div class="col-md-12 d-flex justify-content-center">
+      <h1 class="home-primary-heading">{{this.page.title}}  {{company}}</h1>
+    </div>
+  </div>
+</div>
+
+
+<div class="container main-content">
+    <div class="row">
+        <div class="col-lg-6 address">
+            <h1>{{this.page.title }} Us</h1>
+            <div id="contact-us"> </div>
+        </div>
+        
+        <div class="col-lg-6 contact">
+            <h1>Send us a mail.</h1>
+            <div id="contact-us"> {% component 'contact' %} </div></div>
+    </div>
+</div>";s:5:"mtime";i:1615091433;s:6:"markup";s:623:"<div class="container mt-3 primary-heading">
+  <div class="row">
+    <div class="col-md-12 d-flex justify-content-center">
+      <h1 class="home-primary-heading">{{this.page.title}}  {{company}}</h1>
+    </div>
+  </div>
+</div>
+
+
+<div class="container main-content">
+    <div class="row">
+        <div class="col-lg-6 address">
+            <h1>{{this.page.title }} Us</h1>
+            <div id="contact-us"> </div>
+        </div>
+        
+        <div class="col-lg-6 contact">
+            <h1>Send us a mail.</h1>
+            <div id="contact-us"> {% component 'contact' %} </div></div>
+    </div>
+</div>";s:4:"code";N;s:5:"title";s:7:"Contact";s:3:"url";s:8:"/contact";s:6:"layout";s:7:"default";s:10:"meta_title";s:10:"Contact Us";s:16:"meta_description";s:10:"Contact Us";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:10:"Contact Us";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:7:"contact";a:0:{}}}

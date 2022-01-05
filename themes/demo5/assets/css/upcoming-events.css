@@ -1,0 +1,117 @@
+
+/* Upcoming Events */
+.upcoming-events{
+    background: linear-gradient(180deg, #e52d27 0%, #b31217 100%);
+    font-family: 'Nanum Gothic', sans-serif;
+    border-radius: 25px 0;
+    position: relative;
+    overflow: hidden;
+  }
+  .upcoming-events:before,
+  .upcoming-events:after,
+  .upcoming-events .upcoming-events-content:before,
+  .upcoming-events .upcoming-events-content:after{
+    content: "";
+    background: #fff;
+    width: 50%;
+    height: 4px;
+    transform: scaleX(0);
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 1;
+    transition: all 600ms ease;
+  }
+  .upcoming-events:after{
+    top: auto;
+    bottom: 15px;
+    left: auto;
+    right: 15px;
+  }
+  .upcoming-events .upcoming-events-content:before,
+  .upcoming-events .upcoming-events-content:after{
+    width: 4px;
+    height: 50%;
+    transform: scaleY(0);
+  }
+  .upcoming-events .upcoming-events-content:after{
+    left: auto;
+    right: 15px;
+    top: auto;
+    bottom: 15px;
+  }
+  .upcoming-events:hover:before,
+  .upcoming-events:hover:after,
+  .upcoming-events:hover .upcoming-events-content:before,
+  .upcoming-events:hover .upcoming-events-content:after{
+    transform: scale(1);
+  }
+  .upcoming-events img{
+    width: auto;
+    height: 200px;
+    transform: scale3d(1.1, 1.1, 1);
+    transition: all 0.25s linear;
+  }
+  .upcoming-events:hover img{
+    opacity: 0.25;
+    transform: scale(1.25);
+  }
+  .upcoming-events .inner-content{
+    color: #fff;
+    text-align: center;
+    width: 70%;
+    opacity: 0;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transition: all 600ms ease;
+  }
+  .upcoming-events:hover .inner-content{
+    opacity: 1;
+    top: 50%;
+  }
+  .upcoming-events .title{
+    font-size: 14px;
+    font-weight: 800;
+    color: #ffd600;
+    text-transform: capitalize;
+    margin: 0 0 3px;
+  }
+  .upcoming-events .post{
+    font-size: 12px;
+    margin: 0 0 12px;
+    display: block;
+  }
+  .upcoming-events .icon{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  .upcoming-events .icon li{
+    display: inline-block;
+    margin: 0 4px;
+  }
+  .upcoming-events .icon li a{
+    color: #fff;
+    font-size: 18px;
+    line-height: 32px;
+    height: 35px;
+    width: 125px;
+    border: 2px solid #fff;
+    border-radius: 10px 0 10px 0;
+    display: block;
+    transition: all 0.3s;
+  }
+  .upcoming-events .icon li a:hover{
+    color: #b31217;
+    background: #fff;
+    border-radius: 0 10px 0 10px;
+  }
+  @media only screen and (max-width:990px){
+    .upcoming-events { margin: 0 0 30px; }
+  }
+  /* End Upcoming Events */
+  
+  
+  

@@ -1,0 +1,25 @@
+1626488411a:1:{s:45:"sidebar/mahabodhi-sambodhi-retreat-centre.htm";a:5:{s:8:"fileName";s:45:"sidebar/mahabodhi-sambodhi-retreat-centre.htm";s:7:"content";s:836:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">Mahabodhi Sambodhi Retreat Centre</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('/mahabodhi-sambodhi-retreat-centre/shangri-la-meditation')}}">Shangri-La Meditation</a></li>
+        <li><a href="{{url('/mahabodhi-sambodhi-retreat-centre/teachers')}}">Teachers</a></li>
+        <li><a href="{{url('/mahabodhi-sambodhi-retreat-centre/facilities')}}">Facilities</a></li>
+        <li><a href="{{url('/mahabodhi-sambodhi-retreat-centre/retreat-schedule')}}">Retreat Schedule</a></li>
+        <li><a href="{{url('/mahabodhi-sambodhi-retreat-centre/online-form')}}">Online Form</a></li>
+      </ul>
+    </nav>
+  </div>";s:5:"mtime";i:1616027546;s:6:"markup";s:836:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">Mahabodhi Sambodhi Retreat Centre</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('/mahabodhi-sambodhi-retreat-centre/shangri-la-meditation')}}">Shangri-La Meditation</a></li>
+        <li><a href="{{url('/mahabodhi-sambodhi-retreat-centre/teachers')}}">Teachers</a></li>
+        <li><a href="{{url('/mahabodhi-sambodhi-retreat-centre/facilities')}}">Facilities</a></li>
+        <li><a href="{{url('/mahabodhi-sambodhi-retreat-centre/retreat-schedule')}}">Retreat Schedule</a></li>
+        <li><a href="{{url('/mahabodhi-sambodhi-retreat-centre/online-form')}}">Online Form</a></li>
+      </ul>
+    </nav>
+  </div>";s:4:"code";N;}}

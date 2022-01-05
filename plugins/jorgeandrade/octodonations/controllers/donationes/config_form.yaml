@@ -1,0 +1,15 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Donatione
+
+# Model Form Field configuration
+form: $/jorgeandrade/octodonations/models/donatione/fields.yaml
+
+# Model Class name
+modelClass: JorgeAndrade\OctoDonations\Models\Donatione
+
+# Default redirect location
+defaultRedirect: jorgeandrade/octodonations/donationes

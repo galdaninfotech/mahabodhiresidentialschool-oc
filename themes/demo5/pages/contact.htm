@@ -1,0 +1,37 @@
+title = "Contact"
+url = "/contact"
+layout = "default"
+meta_title = "Contact Us"
+meta_description = "Contact Us"
+is_hidden = 0
+seo_keywords = "Contact Us"
+robot_index = "index"
+robot_follow = "follow"
+
+[contact]
+
+
+
+==
+
+<div class="container mt-3 primary-heading">
+  <div class="row">
+    <div class="col-md-12 d-flex justify-content-center">
+      <h1 class="home-primary-heading">{{this.page.title}}  {{company}}</h1>
+    </div>
+  </div>
+</div>
+
+
+<div class="container main-content">
+    <div class="row">
+        <div class="col-lg-6 address">
+            <h1>{{this.page.title }} Us</h1>
+            <div id="contact-us"> </div>
+        </div>
+        
+        <div class="col-lg-6 contact">
+            <h1>Send us a mail.</h1>
+            <div id="contact-us"> {% component 'contact' %} </div></div>
+    </div>
+</div>

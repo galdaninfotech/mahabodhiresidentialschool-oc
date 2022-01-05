@@ -1,0 +1,29 @@
+fields:
+    paypal_id:
+        span: left
+        label: Email address
+        commentAbove: The PayPal ID
+    client_id:
+        span: right
+        label: API Key Client
+        commentAbove: You can find the API Client ID on your  developers PayPal account
+    secret:
+        span: left
+        label: API Key Secret
+        commentAbove: You can find the API Client ID on your  developers PayPal account
+    mode:
+        span: right
+        label: Mode
+        type: dropdown
+        options:
+            sandbox: Sandbox
+            live: Live
+        commentAbove: Change between developer and production 
+    success:
+        span: left
+        label: URL Success (absolute)
+        commentAbove: URL to redirect back from PayPal in case of a success transaction
+    cancel:
+        span: right
+        label: URL Cancel (absolute)
+        commentAbove: URL to redirect back from PayPal in case of a cancel transaction

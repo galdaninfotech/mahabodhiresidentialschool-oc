@@ -1,0 +1,95 @@
+1640587053a:1:{s:32:"about/dfc-i-can-change-award.htm";a:14:{s:8:"fileName";s:32:"about/dfc-i-can-change-award.htm";s:7:"content";s:3425:"title = "DFC I Can Change Award"
+url = "/about/dfc-i-can-change-award"
+layout = "default"
+meta_title = "DFC I Can Change Award"
+meta_description = "DFC I Can Change Award"
+is_hidden = 0
+seo_keywords = "DFC I Can Change Award"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/index.jpg'|theme}}" alt="DFC I Can Change Award">
+      </div>
+
+      <h6>Mahabodhi Hostels for Girls- 1991</h6>
+      <p>Mahabodhi Girls Hostel is meant for those under privileged girl students from the far flung villages of Ladakh region who were receiving a holistic education from the Mahabodhi Residential School in the Devachan campus. Like many other parts of India, Ladakh has witnessed a biased attitude toward female children, especially in terms of providing education.</p>
+
+    <p>Hence, Venerable Bhikkhu Sanghasena has long felt the need to provide education for deprived girls as a matter of priority over boys. In 1992, the Mahabodhi Girls' Hostel was established, embracing young girls from extremely disadvantaged families located in some of the remotest parts of the region. At present, 140 girls reside at the Mahabodhi Girls' Hostel, living like sisters, in a homely environment surrounded by love, care and genuine concern. Extending the existing facilities to accommodate at least 200 girls, ensuring no female child is deprived of an education through a lack of facilities or resources is our goal. </p>
+
+    <h6>Mahabodhi Hostels for Boys – 1996</h6>
+
+    <p>Mahabodhi Boys Hostel aims to provide decent accommodation to the boys from remote places of the Ladakh region to get proper education facilities at the campus school. Like their sister counterparts‚ many poor boys belonging to remote and marginalized communities in Ladakh are deprived of a basic education.</p>
+
+    <p>Hence‚ to provide a home for such boys‚ Venerable Bhikkhu Sanghasena initiated the Mahabodhi Boys’ Hostel in 1996‚which received its first intake of 10 boys that same year.Now‚130 young and highly energetic boys are resident at the Mahabodhi Boys’ Hostel‚with each developing and flourishing in the safety and security of this loving environment.</p>
+
+    <p>The boys’ hostel required extending the existing facilities to accommodate at least 200 boys‚so no child is deprived of an education through a lack of facilities or resources.</p>
+
+    <p>The Mahabodhi hostels for boys have become a home away from home for more than 100 young boys. The hostel is upgraded and expanded periodically to accommodate more needy children, ensuring facilities to the truly disadvantages, who find it difficult to get access to educational opportunities are not left out and they find a place in our hostel.</p>
+
+
+
+
+       
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/useful-links' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1632629210;s:6:"markup";s:3136:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/index.jpg'|theme}}" alt="DFC I Can Change Award">
+      </div>
+
+      <h6>Mahabodhi Hostels for Girls- 1991</h6>
+      <p>Mahabodhi Girls Hostel is meant for those under privileged girl students from the far flung villages of Ladakh region who were receiving a holistic education from the Mahabodhi Residential School in the Devachan campus. Like many other parts of India, Ladakh has witnessed a biased attitude toward female children, especially in terms of providing education.</p>
+
+    <p>Hence, Venerable Bhikkhu Sanghasena has long felt the need to provide education for deprived girls as a matter of priority over boys. In 1992, the Mahabodhi Girls' Hostel was established, embracing young girls from extremely disadvantaged families located in some of the remotest parts of the region. At present, 140 girls reside at the Mahabodhi Girls' Hostel, living like sisters, in a homely environment surrounded by love, care and genuine concern. Extending the existing facilities to accommodate at least 200 girls, ensuring no female child is deprived of an education through a lack of facilities or resources is our goal. </p>
+
+    <h6>Mahabodhi Hostels for Boys – 1996</h6>
+
+    <p>Mahabodhi Boys Hostel aims to provide decent accommodation to the boys from remote places of the Ladakh region to get proper education facilities at the campus school. Like their sister counterparts‚ many poor boys belonging to remote and marginalized communities in Ladakh are deprived of a basic education.</p>
+
+    <p>Hence‚ to provide a home for such boys‚ Venerable Bhikkhu Sanghasena initiated the Mahabodhi Boys’ Hostel in 1996‚which received its first intake of 10 boys that same year.Now‚130 young and highly energetic boys are resident at the Mahabodhi Boys’ Hostel‚with each developing and flourishing in the safety and security of this loving environment.</p>
+
+    <p>The boys’ hostel required extending the existing facilities to accommodate at least 200 boys‚so no child is deprived of an education through a lack of facilities or resources.</p>
+
+    <p>The Mahabodhi hostels for boys have become a home away from home for more than 100 young boys. The hostel is upgraded and expanded periodically to accommodate more needy children, ensuring facilities to the truly disadvantages, who find it difficult to get access to educational opportunities are not left out and they find a place in our hostel.</p>
+
+
+
+
+       
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/useful-links' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:22:"DFC I Can Change Award";s:3:"url";s:29:"/about/dfc-i-can-change-award";s:6:"layout";s:7:"default";s:10:"meta_title";s:22:"DFC I Can Change Award";s:16:"meta_description";s:22:"DFC I Can Change Award";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:22:"DFC I Can Change Award";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

@@ -1,0 +1,33 @@
+1640587053a:1:{s:17:"sidebar/about.htm";a:5:{s:8:"fileName";s:17:"sidebar/about.htm";s:7:"content";s:616:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">About Us</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('about/mahabodhi-international-meditation-centre')}}">Mahabodhi Residential School</a></li>
+        <li><a href="{{url('about/about')}}">About Us</a></li>
+        <li><a href="{{url('about/motto')}}">Motto</a></li>
+        <li><a href="{{url('about/admissions')}}">Admission</a></li>
+      </ul>
+    </nav>
+
+    
+    <br>
+
+  </div>";s:5:"mtime";i:1632624719;s:6:"markup";s:616:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">About Us</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('about/mahabodhi-international-meditation-centre')}}">Mahabodhi Residential School</a></li>
+        <li><a href="{{url('about/about')}}">About Us</a></li>
+        <li><a href="{{url('about/motto')}}">Motto</a></li>
+        <li><a href="{{url('about/admissions')}}">Admission</a></li>
+      </ul>
+    </nav>
+
+    
+    <br>
+
+  </div>";s:4:"code";N;}}

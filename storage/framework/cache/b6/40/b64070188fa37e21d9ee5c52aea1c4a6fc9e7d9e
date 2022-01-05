@@ -1,0 +1,61 @@
+1634654267a:1:{s:50:"facilities/educational-and-cultural-excursions.htm";a:14:{s:8:"fileName";s:50:"facilities/educational-and-cultural-excursions.htm";s:7:"content";s:1508:"title = "Educational and Cultural Excursions"
+url = "/facilities/educational-and-cultural-excursions"
+layout = "default"
+meta_title = "Educational and Cultural Excursions"
+meta_description = "Educational and Cultural Excursions"
+is_hidden = 0
+seo_keywords = "Educational and Cultural Excursions"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/index.jpg'|theme}}" alt="Educational and Cultural Excursions">
+      </div>
+       
+      <p>The school also organizes annual educational and Cultural Exchange Programme & excursions to different places outside Ladakh tour & exchange programmes not only make learning practical, exciting, interactive and fun for the kids but also develop in them greater confidences new insights, appreciation to different perspectives of people & cultures of different places.</p>
+
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/useful-links' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1632628447;s:6:"markup";s:1149:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/index.jpg'|theme}}" alt="Educational and Cultural Excursions">
+      </div>
+       
+      <p>The school also organizes annual educational and Cultural Exchange Programme & excursions to different places outside Ladakh tour & exchange programmes not only make learning practical, exciting, interactive and fun for the kids but also develop in them greater confidences new insights, appreciation to different perspectives of people & cultures of different places.</p>
+
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/useful-links' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:35:"Educational and Cultural Excursions";s:3:"url";s:47:"/facilities/educational-and-cultural-excursions";s:6:"layout";s:7:"default";s:10:"meta_title";s:35:"Educational and Cultural Excursions";s:16:"meta_description";s:35:"Educational and Cultural Excursions";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:35:"Educational and Cultural Excursions";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

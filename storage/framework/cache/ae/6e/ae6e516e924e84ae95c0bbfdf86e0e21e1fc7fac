@@ -1,0 +1,1022 @@
+1629773693a:1:{s:8:"home.htm";a:10:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:30629:"title = "Home"
+url = "/"
+layout = "default"
+description = ""
+hidden = "0"
+==
+
+
+
+==
+
+<!-- Start About Section -->
+<section class="intro" data-scroll-index="1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 d-flex justify-content-center mt-2 mb-2">
+                <div>
+                    <div class="heading white-heading">About Us</div>
+                    <p class="heading-disc">Find all the information about us in the following section or follow the menu on top</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <figure class="snip1447">
+                    <img src="{{'assets/images/intro-lg-1.jpg'|theme}}" alt="sample87" />
+                    <figcaption><img src="{{'assets/images/intro-sm-1.jpg'|theme}}" alt="profile-sample4" class="profile" />
+                        <h2>MIMC</h2>
+                        <p>The Mahabodhi International Meditation Centre had its humble begining in one small rented room in Leh city in 1986 when bhikkhu sanghasena...</p><a href="#" class="follow">Follow</a><a href="{{url('about/mahabodhi-international-meditation-centre')}}" class="info">Read More</a>
+                    </figcaption>
+                </figure>
+            </div>
+            <div class="col-md-4">
+                <figure class="snip1447 hover"><img src="{{'assets/images/intro-lg-2.jpg'|theme}}" alt="sample74" />
+                    <figcaption><img src="{{'assets/images/intro-sm-2.jpg'|theme}}" alt="profile-sample2" class="profile" />
+                        <h2>Ven Bhikkhu sanghasena</h2>
+                        <p>The Mahabodhi International Meditation Centre had its humble begining in one small rented room in Leh city in 1986 when bhikkhu sanghasena...</p><a href="#" class="follow">Follow</a><a href="{{url('ven-bhikkhu-sanghasena/ven-bhikkhu-sanghasena')}}" class="info">Read More</a>
+                    </figcaption>
+                </figure>
+            </div>
+            <div class="col-md-4">
+                <figure class="snip1447"><img src="{{'assets/images/intro-lg-3.jpg'|theme}}" alt="sample69" />
+                    <figcaption><img src="{{'assets/images/intro-sm-3.jpg'|theme}}" alt="profile-sample5" class="profile" />
+                        <h2>MIMC News</h2>
+                        <p>The Mahabodhi International Meditation Centre had its humble begining in one small rented room in Leh city in 1986 when bhikkhu sanghasena...</p><a href="#" class="follow">Follow</a><a href="{{url('news/latest-news')}}" class="info">Read More</a>
+                    </figcaption>
+                </figure>
+            </div>
+        </div>
+    </div>
+</section>
+    
+
+
+<section class="upcoming-events-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 d-flex justify-content-center mt-2 mb-2">
+                <div>
+                    <div class="heading white-heading">Upcoming Events</div>
+                    <p class="heading-disc">Join us in any of our upcoming events listed below...</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="upcoming-events">
+                    <img src="{{'assets/images/bg.jpg'|theme}}">
+                    <div class="upcoming-events-content">
+                        <div class="inner-content">
+                            <h3 class="title">Festival Of Yoga & Meditation</h3>
+                            <p class="post">A splendid 7 day International Conference on Yoga, Meditation, World Peace...</p>
+                            <ul class="icon">
+                                <li><a href="{{url('upcoming-events/festival-of-yoga-and-meditation')}}">Read More...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="upcoming-events">
+                    <img src="{{'assets/images/bg2.jpg'|theme}}">
+                    <div class="upcoming-events-content">
+                        <div class="inner-content">
+                            <h3 class="title">Meditation</h3>
+                            <p class="post">A splendid 7 day International Conference on Yoga, Meditation, World Peace...</p>
+                            <ul class="icon">
+                                <li><a href="{{url('upcoming-events/meditation')}}">Read More...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="upcoming-events">
+                    <img src="{{'assets/images/bg3.jpg'|theme}}">
+                    <div class="upcoming-events-content">
+                        <div class="inner-content">
+                            <h3 class="title">Cultural Show</h3>
+                            <p class="post">A splendid 7 day International Conference on Yoga, Meditation, World Peace...</p>
+                            <ul class="icon">
+                                <li><a href="{{url('upcoming-events/cultural-show')}}">Read More...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</section>
+
+
+<section class="intro" data-scroll-index="1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 d-flex justify-content-center mt-2 mb-2">
+                <div>
+                    <div class="heading white-heading">Sister Concerns</div>
+                    <p class="heading-disc"></p>
+                </div>
+            </div>
+            
+
+            <div class="col-md-3">
+                <figure class="snip1253">
+                    <div class="image"><img src="{{'assets/images/save-the-himalaya-foundation.jpg'|theme}}" alt="sample52"/></div>
+                    <figcaption>
+                      <h6>Save the Himalaya Foundation</h6>
+                      <p>Save the Himalaya Foundation was established by Ven. Bhikkhu sanghasena in the year</p>
+                    </figcaption>
+                    <footer>
+                      <div class="views"><i class="ion-eye"></i></div>
+                      <div class="love"><i class="ion-heart"></i></div>
+                      <div class="comments read-more"><i class="ion-chatboxes"></i>Read More</div>
+                    </footer><a href="{{url('sister-concerns/save-the-himalaya-foundation')}}"></a>
+                </figure>
+            </div>
+
+            <div class="col-md-3">
+                <figure class="snip1253">
+                    <div class="image"><img src="{{'assets/images/mahakaruna-foundation.jpg'|theme}}" alt="sample52"/></div>
+                    <figcaption>
+                      <h6>Mahakaruna Foundation</h6>
+                      <p>Mahakaruna Foundation was established to spread the great compassion in Action</p>
+                    </figcaption>
+                    <footer>
+                      <div class="views"><i class="ion-eye"></i></div>
+                      <div class="love"><i class="ion-heart"></i></div>
+                      <div class="comments"><i class="ion-chatboxes"></i>Read More</div>
+                    </footer><a href="{{url('sister-concerns/mahakaruna-foundation')}}"></a>
+                </figure>
+            </div>
+
+            <div class="col-md-3">
+                <figure class="snip1253">
+                    <div class="image"><img src="{{'assets/images/global-doctors-association-for-himalaya.jpg'|theme}}" alt="sample52"/></div>
+                    <figcaption>
+                      <h6>GDAH</h6>
+                      <p>Global Docters Association For Himalayas was started for the healthcare of peaple of Himalayas...</p>
+                    </figcaption>
+                    <footer>
+                      <div class="views"><i class="ion-eye"></i></div>
+                      <div class="love"><i class="ion-heart"></i></div>
+                      <div class="comments"><i class="ion-chatboxes"></i>Read More</div>
+                    </footer><a href="{{url('sister-concerns/gdah')}}"></a>
+                </figure>
+            </div>
+
+            <div class="col-md-3">
+                <figure class="snip1253">
+                    <div class="image"><img src="{{'assets/images/foundation-for-indian-buddhist.jpg'|theme}}" alt="sample52"/></div>
+                    <figcaption>
+                      <h6>Foundation For Indian Buddhist</h6>
+                      <p>Foundation For Indian Buddhist was started for revival of Buddhism in its birthpalce, India</p>
+                    </figcaption>
+                    <footer>
+                      <div class="views"><i class="ion-eye"></i></div>
+                      <div class="love"><i class="ion-heart"></i></div>
+                      <div class="comments"><i class="ion-chatboxes"></i>Read More</div>
+                    </footer><a href="{{url('sister-concerns/foundation-for-indian-buddhist')}}"></a>
+                </figure>
+            </div>    
+
+        </div>
+    </div>
+</section>
+
+
+
+    
+
+    <!-- Start Testimonials Section -->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">			
+                <div id="mimc-testimoials" class="carousel slide margin-50px-tb" data-ride="carousel">
+                    <div class="d-flex justify-content-center">
+                        <div>
+                            <div class="heading white-heading">Testimonials</div>
+                            <p class="heading-disc">As shard by our friends, well wishers and supporters from around the world</p>
+                        </div>
+                    </div>
+                    <!-- Carousel indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#mimc-testimoials" data-slide-to="0" class="active"></li>
+                        <li data-target="#mimc-testimoials" data-slide-to="1"></li>
+                        <li data-target="#mimc-testimoials" data-slide-to="2"></li>
+                    </ol>   
+                    <!-- Wrapper for carousel items -->
+                    <div class="carousel-inner">
+                        <div class="active carousel-item">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>Beautiful and peaceful location between desert mountains, green gardens, flowers and birds, children's chanting early in the morning, Master's teachings, time to think about priorities and values in life...peace, peace, peace...all this and much more I have found at Mahabodhi</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial1.jpg'|theme}}" alt="">										
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>Romone</b></div>
+                                                <div class="details">Slovenia</div>
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>I’m so happy to have discovered Mahabodhi. It’s a beautiful oasis of calm and tranquility. Ven. sanghasena was an entertaining and inspiring teacher on the 3 day residential meditation course. Found a perfect way to take a piece of divine Ladakh home with me (in my heart)</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial2.jpg'|theme}}" alt="">
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>Charlotte Winn</b></div>
+                                                <div class="details">New Zealand</div>
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>			
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>Mahabodhi is an excellent place to escape the hustle and bustle of traveling around India. Great place to wonder around – you can see cheeky young monks playing cricket. The food is tip top and its was a good base for my excursions around Ladakh. I enjoyed coming back. You can be involved in the spiritual side as much or as little as you want, it’s a friendly place!</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial3.jpg'|theme}}" alt="">										
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>Tony</b></div>
+                                                <div class="details">United Kingdom</div>											
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>Mahabodhi is an excellent place to escape the hustle and bustle of traveling around India. Great place to wonder around – you can see cheeky young monks playing cricket. The food is tip top and its was a good base for my excursions around Ladakh. I enjoyed coming back. You can be involved in the spiritual side as much or as little as you want, it’s a friendly place!</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial4.jpg'|theme}}" alt="">										
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>Mary Saveley</b></div>
+                                                <div class="details">Australia</div>
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>			
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>Mahabodhi is an excellent place to escape the hustle and bustle of traveling around India. Great place to wonder around – you can see cheeky young monks playing cricket. The food is tip top and its was a good base for my excursions around Ladakh. I enjoyed coming back. You can be involved in the spiritual side as much or as little as you want, it’s a friendly place!</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial5.jpg'|theme}}" alt="">										
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>Martin Sommer</b></div>
+                                                <div class="details">United States Of America</div>
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>Mahabodhi is an excellent place to escape the hustle and bustle of traveling around India. Great place to wonder around – you can see cheeky young monks playing cricket. The food is tip top and its was a good base for my excursions around Ladakh. I enjoyed coming back. You can be involved in the spiritual side as much or as little as you want, it’s a friendly place!</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial6.jpg'|theme}}" alt="">										
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>John Williams</b></div>
+                                                <div class="details">Germany</div>
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>			
+                        </div>
+                    </div>
+                    <!-- Carousel controls -->
+                    <a class="carousel-control left" href="#mimc-testimoials" data-slide="prev">
+                        <i class="fa fa-chevron-left"></i>
+                    </a>
+                    <a class="carousel-control right" href="#mimc-testimoials" data-slide="next">
+                        <i class="fa fa-chevron-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Testimonials Section -->
+    
+    
+    <section class="social-feed">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 d-flex justify-content-center mt-2 mb-2">
+                    <div>
+                        <div class="heading white-heading">Latest Social Media</div>
+                        <p class="heading-disc">Check out out latest posts of our Social Media Sites</p>
+                    </div>
+                </div>               
+                <div class="col-md-4">{% component 'fanpageFacebook' %}</div>
+                <div class="col-md-4">{% component 'fanpageFacebook' %}</div>
+                <div class="col-md-4">{% component 'fanpageFacebook' %}</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Support Our Project -->
+    <section id="biking-tour">
+		<div class="container">
+			<div class="row">
+                <div class="col-md-12 d-flex justify-content-center mt-2 mb-2">
+                    <div>
+                        <div class="heading white-heading">Support Our Projects</div>
+                        <p class="heading-disc">Help us by contributing your bit to achieve our mission</p>
+                    </div>
+                </div>
+
+				<!-- Item -->
+				<div class="col-sm-12 col-md-6 col-lg-6">
+					<figure class="snip1369 blue animated rollIn"">
+						<img class=" img img-responsive" src="{{'assets/images/foreign-donation.jpg'|theme}}"
+					 alt="{{ firstItem.description }}" />
+					<div class=" image">
+						<img class="img img-responsive" src="{{'assets/images/foreign-donation.jpg'|theme}}" alt="{{ firstItem.description }}" />
+					</div>
+					<figcaption>
+						<h3>Foreign Donors</h3>
+						<p class="excerpt">Help us by contributing your bit to achieve our mission...</p>
+					</figcaption>
+					<span class="read-more">Support Now <i class="ion-android-arrow-forward"></i></span>
+					<a href="{{'donation/foreign-donation'}}"></a>
+					</figure>
+				</div>
+				<!-- End Item -->
+				<!-- Item -->
+				<div class="col-sm-12 col-md-6 col-lg-6">
+						<figure class="snip1369 blue animated rollIn"">
+							<img class=" img img-responsive" src="{{'assets/images/indian-donation.jpg'|theme}}"
+						 alt="{{ firstItem.description }}" />
+						<div class=" image">
+							<img class="img img-responsive" src="{{'assets/images/indian-donation.jpg'|theme}}" alt="{{ firstItem.description }}" />
+						</div>
+						<figcaption>
+							<h3>Indian Donors</h3>
+							<p class="excerpt">Help us by contributing your bit to achieve our mission...</p>
+						</figcaption>
+						<span class="read-more">Support Now <i class="ion-android-arrow-forward"></i></span>
+						<a href="{{'donation/indian-donation'}}"></a>
+						</figure>
+					</div>
+					<!-- End Item -->
+			</div>
+		</div>
+	</section>
+    <!-- end Support Our Project -->
+
+    <section class="contact contact-parallax bg-light-gray no-padding margin-50px-tb" data-scroll-index="6">
+        <!-- start quickly contact -->
+        <div class="info">
+            <div class="padding-ten-lr padding-100px-tb padding-70px-tb sm-padding-50px-tb sm-no-padding-lr">
+                <div>
+                    <div class="heading white-heading">Get In Touch</div>
+                    <p class="heading-disc">Contact us on the following options for more information on the various projects & events being held at Mahabodhi International Meditation Centre</p>
+                </div>
+                <div class="col-md-4 item margin-20px-bottom">
+                    <div class="address-box">
+                        <i class="fa fa-map-marker-alt"></i>
+                        <h6 class="text-white">Address: </h6>
+                        <span>P.O. Box #22, Leh, </span>
+                        <span>UT Ladakh 194101, India</span>
+                    </div>
+                </div>
+                <div class="col-md-4 item margin-20px-bottom">
+                    <div class="address-box">
+                        <i class="fa fa-mobile-alt"></i>
+                        <h6 class="text-white">Phone: </h6>
+                        <span>+91-1082-264372</span>
+                    </div>
+                </div>
+                <div class="col-md-4 item margin-20px-bottom">
+                    <div class="address-box">
+                        <i class="fa fa-envelope"></i>
+                        <h6 class="text-white">Email: </h6>
+                        <span>infomimc@gmail.com/secymimc@gmail.com</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end quickly contact -->
+    </section>
+
+    <!-- Start Contact Section -->
+    <section class="contact bg-light-gray padding-10px-bottom padding-10px-top" data-scroll-index="6">
+        <div class="container">
+            <div class="row">
+                <!-- start quickly contact -->
+                <div class="col-lg-6 map-home">
+                    <div class="padding-16px-tb">
+                        {% if this.page.title == 'Home' %}
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5463.287092411134!2d77.61416951972717!3d34.10069754928813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1614781487435!5m2!1sen!2sin" width="540" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        {% endif %}
+                    </div>
+                </div>
+                <!-- end quickly contact -->
+
+                <!-- start get in touch -->
+                <div class="col-lg-6">
+                    <div class="padding-ten-lr padding-10px-tb sm-padding-50px-tb sm-no-padding-lr">
+                        <div class="contact">
+                            <h4 class="heading font-weight-300 font-size32 md-font-size27 sm-font-size24 xs-font-size20 text-center">Mail Us</h4>
+                        </div>
+                        {% component 'contact' %}
+                    </div>
+                </div>
+                <!-- end get in touch -->
+            </div>
+        </div>
+    </section>
+    <!-- End Contact Section -->";s:5:"mtime";i:1626486488;s:6:"markup";s:30545:"<!-- Start About Section -->
+<section class="intro" data-scroll-index="1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 d-flex justify-content-center mt-2 mb-2">
+                <div>
+                    <div class="heading white-heading">About Us</div>
+                    <p class="heading-disc">Find all the information about us in the following section or follow the menu on top</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <figure class="snip1447">
+                    <img src="{{'assets/images/intro-lg-1.jpg'|theme}}" alt="sample87" />
+                    <figcaption><img src="{{'assets/images/intro-sm-1.jpg'|theme}}" alt="profile-sample4" class="profile" />
+                        <h2>MIMC</h2>
+                        <p>The Mahabodhi International Meditation Centre had its humble begining in one small rented room in Leh city in 1986 when bhikkhu sanghasena...</p><a href="#" class="follow">Follow</a><a href="{{url('about/mahabodhi-international-meditation-centre')}}" class="info">Read More</a>
+                    </figcaption>
+                </figure>
+            </div>
+            <div class="col-md-4">
+                <figure class="snip1447 hover"><img src="{{'assets/images/intro-lg-2.jpg'|theme}}" alt="sample74" />
+                    <figcaption><img src="{{'assets/images/intro-sm-2.jpg'|theme}}" alt="profile-sample2" class="profile" />
+                        <h2>Ven Bhikkhu sanghasena</h2>
+                        <p>The Mahabodhi International Meditation Centre had its humble begining in one small rented room in Leh city in 1986 when bhikkhu sanghasena...</p><a href="#" class="follow">Follow</a><a href="{{url('ven-bhikkhu-sanghasena/ven-bhikkhu-sanghasena')}}" class="info">Read More</a>
+                    </figcaption>
+                </figure>
+            </div>
+            <div class="col-md-4">
+                <figure class="snip1447"><img src="{{'assets/images/intro-lg-3.jpg'|theme}}" alt="sample69" />
+                    <figcaption><img src="{{'assets/images/intro-sm-3.jpg'|theme}}" alt="profile-sample5" class="profile" />
+                        <h2>MIMC News</h2>
+                        <p>The Mahabodhi International Meditation Centre had its humble begining in one small rented room in Leh city in 1986 when bhikkhu sanghasena...</p><a href="#" class="follow">Follow</a><a href="{{url('news/latest-news')}}" class="info">Read More</a>
+                    </figcaption>
+                </figure>
+            </div>
+        </div>
+    </div>
+</section>
+    
+
+
+<section class="upcoming-events-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 d-flex justify-content-center mt-2 mb-2">
+                <div>
+                    <div class="heading white-heading">Upcoming Events</div>
+                    <p class="heading-disc">Join us in any of our upcoming events listed below...</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="upcoming-events">
+                    <img src="{{'assets/images/bg.jpg'|theme}}">
+                    <div class="upcoming-events-content">
+                        <div class="inner-content">
+                            <h3 class="title">Festival Of Yoga & Meditation</h3>
+                            <p class="post">A splendid 7 day International Conference on Yoga, Meditation, World Peace...</p>
+                            <ul class="icon">
+                                <li><a href="{{url('upcoming-events/festival-of-yoga-and-meditation')}}">Read More...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="upcoming-events">
+                    <img src="{{'assets/images/bg2.jpg'|theme}}">
+                    <div class="upcoming-events-content">
+                        <div class="inner-content">
+                            <h3 class="title">Meditation</h3>
+                            <p class="post">A splendid 7 day International Conference on Yoga, Meditation, World Peace...</p>
+                            <ul class="icon">
+                                <li><a href="{{url('upcoming-events/meditation')}}">Read More...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="upcoming-events">
+                    <img src="{{'assets/images/bg3.jpg'|theme}}">
+                    <div class="upcoming-events-content">
+                        <div class="inner-content">
+                            <h3 class="title">Cultural Show</h3>
+                            <p class="post">A splendid 7 day International Conference on Yoga, Meditation, World Peace...</p>
+                            <ul class="icon">
+                                <li><a href="{{url('upcoming-events/cultural-show')}}">Read More...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</section>
+
+
+<section class="intro" data-scroll-index="1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 d-flex justify-content-center mt-2 mb-2">
+                <div>
+                    <div class="heading white-heading">Sister Concerns</div>
+                    <p class="heading-disc"></p>
+                </div>
+            </div>
+            
+
+            <div class="col-md-3">
+                <figure class="snip1253">
+                    <div class="image"><img src="{{'assets/images/save-the-himalaya-foundation.jpg'|theme}}" alt="sample52"/></div>
+                    <figcaption>
+                      <h6>Save the Himalaya Foundation</h6>
+                      <p>Save the Himalaya Foundation was established by Ven. Bhikkhu sanghasena in the year</p>
+                    </figcaption>
+                    <footer>
+                      <div class="views"><i class="ion-eye"></i></div>
+                      <div class="love"><i class="ion-heart"></i></div>
+                      <div class="comments read-more"><i class="ion-chatboxes"></i>Read More</div>
+                    </footer><a href="{{url('sister-concerns/save-the-himalaya-foundation')}}"></a>
+                </figure>
+            </div>
+
+            <div class="col-md-3">
+                <figure class="snip1253">
+                    <div class="image"><img src="{{'assets/images/mahakaruna-foundation.jpg'|theme}}" alt="sample52"/></div>
+                    <figcaption>
+                      <h6>Mahakaruna Foundation</h6>
+                      <p>Mahakaruna Foundation was established to spread the great compassion in Action</p>
+                    </figcaption>
+                    <footer>
+                      <div class="views"><i class="ion-eye"></i></div>
+                      <div class="love"><i class="ion-heart"></i></div>
+                      <div class="comments"><i class="ion-chatboxes"></i>Read More</div>
+                    </footer><a href="{{url('sister-concerns/mahakaruna-foundation')}}"></a>
+                </figure>
+            </div>
+
+            <div class="col-md-3">
+                <figure class="snip1253">
+                    <div class="image"><img src="{{'assets/images/global-doctors-association-for-himalaya.jpg'|theme}}" alt="sample52"/></div>
+                    <figcaption>
+                      <h6>GDAH</h6>
+                      <p>Global Docters Association For Himalayas was started for the healthcare of peaple of Himalayas...</p>
+                    </figcaption>
+                    <footer>
+                      <div class="views"><i class="ion-eye"></i></div>
+                      <div class="love"><i class="ion-heart"></i></div>
+                      <div class="comments"><i class="ion-chatboxes"></i>Read More</div>
+                    </footer><a href="{{url('sister-concerns/gdah')}}"></a>
+                </figure>
+            </div>
+
+            <div class="col-md-3">
+                <figure class="snip1253">
+                    <div class="image"><img src="{{'assets/images/foundation-for-indian-buddhist.jpg'|theme}}" alt="sample52"/></div>
+                    <figcaption>
+                      <h6>Foundation For Indian Buddhist</h6>
+                      <p>Foundation For Indian Buddhist was started for revival of Buddhism in its birthpalce, India</p>
+                    </figcaption>
+                    <footer>
+                      <div class="views"><i class="ion-eye"></i></div>
+                      <div class="love"><i class="ion-heart"></i></div>
+                      <div class="comments"><i class="ion-chatboxes"></i>Read More</div>
+                    </footer><a href="{{url('sister-concerns/foundation-for-indian-buddhist')}}"></a>
+                </figure>
+            </div>    
+
+        </div>
+    </div>
+</section>
+
+
+
+    
+
+    <!-- Start Testimonials Section -->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">			
+                <div id="mimc-testimoials" class="carousel slide margin-50px-tb" data-ride="carousel">
+                    <div class="d-flex justify-content-center">
+                        <div>
+                            <div class="heading white-heading">Testimonials</div>
+                            <p class="heading-disc">As shard by our friends, well wishers and supporters from around the world</p>
+                        </div>
+                    </div>
+                    <!-- Carousel indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#mimc-testimoials" data-slide-to="0" class="active"></li>
+                        <li data-target="#mimc-testimoials" data-slide-to="1"></li>
+                        <li data-target="#mimc-testimoials" data-slide-to="2"></li>
+                    </ol>   
+                    <!-- Wrapper for carousel items -->
+                    <div class="carousel-inner">
+                        <div class="active carousel-item">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>Beautiful and peaceful location between desert mountains, green gardens, flowers and birds, children's chanting early in the morning, Master's teachings, time to think about priorities and values in life...peace, peace, peace...all this and much more I have found at Mahabodhi</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial1.jpg'|theme}}" alt="">										
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>Romone</b></div>
+                                                <div class="details">Slovenia</div>
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>I’m so happy to have discovered Mahabodhi. It’s a beautiful oasis of calm and tranquility. Ven. sanghasena was an entertaining and inspiring teacher on the 3 day residential meditation course. Found a perfect way to take a piece of divine Ladakh home with me (in my heart)</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial2.jpg'|theme}}" alt="">
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>Charlotte Winn</b></div>
+                                                <div class="details">New Zealand</div>
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>			
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>Mahabodhi is an excellent place to escape the hustle and bustle of traveling around India. Great place to wonder around – you can see cheeky young monks playing cricket. The food is tip top and its was a good base for my excursions around Ladakh. I enjoyed coming back. You can be involved in the spiritual side as much or as little as you want, it’s a friendly place!</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial3.jpg'|theme}}" alt="">										
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>Tony</b></div>
+                                                <div class="details">United Kingdom</div>											
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>Mahabodhi is an excellent place to escape the hustle and bustle of traveling around India. Great place to wonder around – you can see cheeky young monks playing cricket. The food is tip top and its was a good base for my excursions around Ladakh. I enjoyed coming back. You can be involved in the spiritual side as much or as little as you want, it’s a friendly place!</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial4.jpg'|theme}}" alt="">										
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>Mary Saveley</b></div>
+                                                <div class="details">Australia</div>
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>			
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>Mahabodhi is an excellent place to escape the hustle and bustle of traveling around India. Great place to wonder around – you can see cheeky young monks playing cricket. The food is tip top and its was a good base for my excursions around Ladakh. I enjoyed coming back. You can be involved in the spiritual side as much or as little as you want, it’s a friendly place!</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial5.jpg'|theme}}" alt="">										
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>Martin Sommer</b></div>
+                                                <div class="details">United States Of America</div>
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="testimonial">
+                                        <p>Mahabodhi is an excellent place to escape the hustle and bustle of traveling around India. Great place to wonder around – you can see cheeky young monks playing cricket. The food is tip top and its was a good base for my excursions around Ladakh. I enjoyed coming back. You can be involved in the spiritual side as much or as little as you want, it’s a friendly place!</p>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <img src="{{'assets/images/testimonial6.jpg'|theme}}" alt="">										
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="overview">
+                                                <div class="name"><b>John Williams</b></div>
+                                                <div class="details">Germany</div>
+                                                <div class="star-rating">
+                                                    <ul class="list-inline">
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                        <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>										
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>			
+                        </div>
+                    </div>
+                    <!-- Carousel controls -->
+                    <a class="carousel-control left" href="#mimc-testimoials" data-slide="prev">
+                        <i class="fa fa-chevron-left"></i>
+                    </a>
+                    <a class="carousel-control right" href="#mimc-testimoials" data-slide="next">
+                        <i class="fa fa-chevron-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Testimonials Section -->
+    
+    
+    <section class="social-feed">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 d-flex justify-content-center mt-2 mb-2">
+                    <div>
+                        <div class="heading white-heading">Latest Social Media</div>
+                        <p class="heading-disc">Check out out latest posts of our Social Media Sites</p>
+                    </div>
+                </div>               
+                <div class="col-md-4">{% component 'fanpageFacebook' %}</div>
+                <div class="col-md-4">{% component 'fanpageFacebook' %}</div>
+                <div class="col-md-4">{% component 'fanpageFacebook' %}</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Support Our Project -->
+    <section id="biking-tour">
+		<div class="container">
+			<div class="row">
+                <div class="col-md-12 d-flex justify-content-center mt-2 mb-2">
+                    <div>
+                        <div class="heading white-heading">Support Our Projects</div>
+                        <p class="heading-disc">Help us by contributing your bit to achieve our mission</p>
+                    </div>
+                </div>
+
+				<!-- Item -->
+				<div class="col-sm-12 col-md-6 col-lg-6">
+					<figure class="snip1369 blue animated rollIn"">
+						<img class=" img img-responsive" src="{{'assets/images/foreign-donation.jpg'|theme}}"
+					 alt="{{ firstItem.description }}" />
+					<div class=" image">
+						<img class="img img-responsive" src="{{'assets/images/foreign-donation.jpg'|theme}}" alt="{{ firstItem.description }}" />
+					</div>
+					<figcaption>
+						<h3>Foreign Donors</h3>
+						<p class="excerpt">Help us by contributing your bit to achieve our mission...</p>
+					</figcaption>
+					<span class="read-more">Support Now <i class="ion-android-arrow-forward"></i></span>
+					<a href="{{'donation/foreign-donation'}}"></a>
+					</figure>
+				</div>
+				<!-- End Item -->
+				<!-- Item -->
+				<div class="col-sm-12 col-md-6 col-lg-6">
+						<figure class="snip1369 blue animated rollIn"">
+							<img class=" img img-responsive" src="{{'assets/images/indian-donation.jpg'|theme}}"
+						 alt="{{ firstItem.description }}" />
+						<div class=" image">
+							<img class="img img-responsive" src="{{'assets/images/indian-donation.jpg'|theme}}" alt="{{ firstItem.description }}" />
+						</div>
+						<figcaption>
+							<h3>Indian Donors</h3>
+							<p class="excerpt">Help us by contributing your bit to achieve our mission...</p>
+						</figcaption>
+						<span class="read-more">Support Now <i class="ion-android-arrow-forward"></i></span>
+						<a href="{{'donation/indian-donation'}}"></a>
+						</figure>
+					</div>
+					<!-- End Item -->
+			</div>
+		</div>
+	</section>
+    <!-- end Support Our Project -->
+
+    <section class="contact contact-parallax bg-light-gray no-padding margin-50px-tb" data-scroll-index="6">
+        <!-- start quickly contact -->
+        <div class="info">
+            <div class="padding-ten-lr padding-100px-tb padding-70px-tb sm-padding-50px-tb sm-no-padding-lr">
+                <div>
+                    <div class="heading white-heading">Get In Touch</div>
+                    <p class="heading-disc">Contact us on the following options for more information on the various projects & events being held at Mahabodhi International Meditation Centre</p>
+                </div>
+                <div class="col-md-4 item margin-20px-bottom">
+                    <div class="address-box">
+                        <i class="fa fa-map-marker-alt"></i>
+                        <h6 class="text-white">Address: </h6>
+                        <span>P.O. Box #22, Leh, </span>
+                        <span>UT Ladakh 194101, India</span>
+                    </div>
+                </div>
+                <div class="col-md-4 item margin-20px-bottom">
+                    <div class="address-box">
+                        <i class="fa fa-mobile-alt"></i>
+                        <h6 class="text-white">Phone: </h6>
+                        <span>+91-1082-264372</span>
+                    </div>
+                </div>
+                <div class="col-md-4 item margin-20px-bottom">
+                    <div class="address-box">
+                        <i class="fa fa-envelope"></i>
+                        <h6 class="text-white">Email: </h6>
+                        <span>infomimc@gmail.com/secymimc@gmail.com</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end quickly contact -->
+    </section>
+
+    <!-- Start Contact Section -->
+    <section class="contact bg-light-gray padding-10px-bottom padding-10px-top" data-scroll-index="6">
+        <div class="container">
+            <div class="row">
+                <!-- start quickly contact -->
+                <div class="col-lg-6 map-home">
+                    <div class="padding-16px-tb">
+                        {% if this.page.title == 'Home' %}
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5463.287092411134!2d77.61416951972717!3d34.10069754928813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1614781487435!5m2!1sen!2sin" width="540" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        {% endif %}
+                    </div>
+                </div>
+                <!-- end quickly contact -->
+
+                <!-- start get in touch -->
+                <div class="col-lg-6">
+                    <div class="padding-ten-lr padding-10px-tb sm-padding-50px-tb sm-no-padding-lr">
+                        <div class="contact">
+                            <h4 class="heading font-weight-300 font-size32 md-font-size27 sm-font-size24 xs-font-size20 text-center">Mail Us</h4>
+                        </div>
+                        {% component 'contact' %}
+                    </div>
+                </div>
+                <!-- end get in touch -->
+            </div>
+        </div>
+    </section>
+    <!-- End Contact Section -->";s:4:"code";s:0:"";s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:11:"description";s:0:"";s:6:"hidden";s:1:"0";}}

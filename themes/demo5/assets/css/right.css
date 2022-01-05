@@ -1,0 +1,83 @@
+
+/* Right 1 */
+.title-box {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    height: 46px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    line-height: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-shadow: 0px 1px 1px #888;
+    background-color: #ffd600;
+    width: 100%;
+  }
+  .title-box span.icon,
+  .title-box span.title {
+    display: block;
+    position: relative;
+    line-height: 50px;
+    padding: 0 30px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+  }
+  .title-box span.left {
+    float: left;
+    border-radius: 2px 0 0 2px;
+    -moz-border-radius: 2px 0 0 2px;
+    -webkit-border-radius: 2px 0 0 2px;
+    left: 2px;
+  }
+  .title-box span.right {
+    float: right;
+    border-radius: 0 6px 6px 0;
+    -moz-border-radius: 0 6px 6px 0;
+    -webkit-border-radius: 0 6px 6px 0;
+  }
+  .title-box span.icon {
+    font-size: 23px;
+    background-color: #00967f;
+    -webkit-box-shadow: 0 3px 0 0 #007261;
+    box-shadow: 0 3px 0 0 #007261;
+    text-shadow: 0px 1px 1px #888;
+  }
+  .title-box span.title {
+    -webkit-box-shadow: 0 3px 0 0 #841404;
+    box-shadow: 0 3px 0 0 #841404;
+      background-color: #a11a07;
+      font-size: 12px;
+      color: white;
+      width: 76%;
+  }
+  
+  .title-box span.slant-left,
+  .title-box span.slant-right {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 0 solid transparent;
+    border-bottom: 50px solid transparent;
+    -webkit-transition: all 0.15s;
+    -transition: all 0.15s;
+    -webkit-transition-property: left, right;
+    transition-property: left, right;
+  }
+  .title-box.right span.slant-right {
+    left: 0;
+    -webkit-box-shadow: -10px 0 0 0 #a11a07, -10px 3px 0 0 #921706;
+    box-shadow: -10px 0 0 0 #a11a07, -10px 3px 0 0 #921706;
+    border-left: 10px solid #a11a07;
+  }
+  .title-box:hover span.slant-right {
+    left: 10px;
+  }
+  
+  
+  /* End Right 1 */

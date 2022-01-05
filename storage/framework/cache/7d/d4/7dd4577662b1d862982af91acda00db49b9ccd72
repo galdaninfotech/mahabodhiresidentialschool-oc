@@ -1,0 +1,83 @@
+1632541128a:1:{s:28:"donation/indian-donation.htm";a:14:{s:8:"fileName";s:28:"donation/indian-donation.htm";s:7:"content";s:1385:"title = "Indian Donation"
+url = "/donation/indian-donation"
+layout = "default"
+meta_title = "Indian Donation"
+meta_description = "Indian Donation"
+is_hidden = 0
+seo_keywords = "Indian Donation"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-10px-t margin-50px-b">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/education/mahabodhi-jetavana-monastery.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <b>Name of Account</b> :  Mahabodhi Int’l Meditation Centre<br>
+      <b>Account No.</b>    10942164077<br>
+      <b>Account Type</b> : Saving<br>
+      <b>Name of Bank</b> : State Bank of India<br>
+      <b>IFSC CODE</b> : SBIN0001365<br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/ven-bhikkhu-sanghasena' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1629773035;s:6:"markup";s:1128:"<div class="container">
+  <div class="row main-content margin-10px-t margin-50px-b">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/education/mahabodhi-jetavana-monastery.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <b>Name of Account</b> :  Mahabodhi Int’l Meditation Centre<br>
+      <b>Account No.</b>    10942164077<br>
+      <b>Account Type</b> : Saving<br>
+      <b>Name of Bank</b> : State Bank of India<br>
+      <b>IFSC CODE</b> : SBIN0001365<br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/ven-bhikkhu-sanghasena' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:15:"Indian Donation";s:3:"url";s:25:"/donation/indian-donation";s:6:"layout";s:7:"default";s:10:"meta_title";s:15:"Indian Donation";s:16:"meta_description";s:15:"Indian Donation";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:15:"Indian Donation";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

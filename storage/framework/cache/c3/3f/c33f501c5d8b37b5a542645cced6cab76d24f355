@@ -1,0 +1,103 @@
+1640587053a:1:{s:15:"about/about.htm";a:14:{s:8:"fileName";s:15:"about/about.htm";s:7:"content";s:3979:"title = "About"
+url = "/about/about"
+layout = "default"
+meta_title = "About"
+meta_description = "About"
+is_hidden = 0
+seo_keywords = "About"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}} US</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/index.jpg'|theme}}" alt="About">
+      </div>
+      
+      
+        <p>The Mahabodhi Residential School is a CBSE affiliated high school flourishing in the naturally dazzling and tranquil campus of Mahabodhi International Meditation Centre (MIMC), Leh Ladakh. Away from the hustle and bustle of the city and gorgeously nestled amidst the majestic snow-capped mountains, the school nurtures the lives of hundreds of students coming together from across the length and breadth of Ladakh. It is a unique school where young monks, nuns, boys, girls and visually impaired children receive quality education indiscriminately. </p>
+
+        <p>The Mahabodhi Residential School was established in the year 1992 by most Ven. Bhikkhu Sanghasena on a completely abandoned desert-like land. With continued efforts and strong motivation, today the school has grown into a beautiful learning hub offering a perfect milieu for children to grown holistically and happily. Ever since its inception, the school has committed itself to providing quality education to the children, coming together from the widespread hamlets of Ladakh, to help them flourish and grow inot…... Apart from imparting the normal secular education the school is committed to accomplish the vision and mission of a happy and prosperous society, nation and world at large, by encouraging in the children a sense of global responsibility, compassionate outlook of the world, and empathetic understanding of the entire sentient beings through imparting spiritual and moral training.</p>
+
+        <p>It is a matter of great pride and joy for all associated with the school to be able to look back upon the activities and rejoice over what the school has been able to achieve within the past few decades. Today Mahabodhi Residential School is one of the best schools in Ladakh with many prestigious awards and laurels to its name including the “I Can Change-Design for Change (DFC) Awards and the Guinness World Records. Given the demand and the current high standard of service delivery, the upgradation of the school to higher secondary (10 + 2) is also in high demand and process. Currently, under the compassionate aspiration and vision of Ven. Bhikkhu Sanghasena, the Mahabodhi Education Programme is supporting around thousands of children, who come from more than 64 remote villages and the noble endeavour is only growing and expanding every passing year.</p>
+
+        <h6>The Concept of Mahabodhi Education Programme </h6>
+        “The Mahabodhi Educational Programmes aims to reform the existing information and job oriented educational system in such a way that students grow: -
+        <ul class="mrsl-list">
+            <li>Physically strong</li>
+            <li>Mentally brilliant</li>
+            <li>Culturally rich</li>
+            <li>Morally lofty</li>
+            <li>Spiritually enlightening</li>
+            <li>Socially harmonious</li>
+            <li>Materially prosperous</li>
+            <li>Globally friendly</li>
+            <li>Environmentally peaceful</li>
+        </ul>
+
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/useful-links' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1632629674;s:6:"markup";s:3775:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}} US</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/index.jpg'|theme}}" alt="About">
+      </div>
+      
+      
+        <p>The Mahabodhi Residential School is a CBSE affiliated high school flourishing in the naturally dazzling and tranquil campus of Mahabodhi International Meditation Centre (MIMC), Leh Ladakh. Away from the hustle and bustle of the city and gorgeously nestled amidst the majestic snow-capped mountains, the school nurtures the lives of hundreds of students coming together from across the length and breadth of Ladakh. It is a unique school where young monks, nuns, boys, girls and visually impaired children receive quality education indiscriminately. </p>
+
+        <p>The Mahabodhi Residential School was established in the year 1992 by most Ven. Bhikkhu Sanghasena on a completely abandoned desert-like land. With continued efforts and strong motivation, today the school has grown into a beautiful learning hub offering a perfect milieu for children to grown holistically and happily. Ever since its inception, the school has committed itself to providing quality education to the children, coming together from the widespread hamlets of Ladakh, to help them flourish and grow inot…... Apart from imparting the normal secular education the school is committed to accomplish the vision and mission of a happy and prosperous society, nation and world at large, by encouraging in the children a sense of global responsibility, compassionate outlook of the world, and empathetic understanding of the entire sentient beings through imparting spiritual and moral training.</p>
+
+        <p>It is a matter of great pride and joy for all associated with the school to be able to look back upon the activities and rejoice over what the school has been able to achieve within the past few decades. Today Mahabodhi Residential School is one of the best schools in Ladakh with many prestigious awards and laurels to its name including the “I Can Change-Design for Change (DFC) Awards and the Guinness World Records. Given the demand and the current high standard of service delivery, the upgradation of the school to higher secondary (10 + 2) is also in high demand and process. Currently, under the compassionate aspiration and vision of Ven. Bhikkhu Sanghasena, the Mahabodhi Education Programme is supporting around thousands of children, who come from more than 64 remote villages and the noble endeavour is only growing and expanding every passing year.</p>
+
+        <h6>The Concept of Mahabodhi Education Programme </h6>
+        “The Mahabodhi Educational Programmes aims to reform the existing information and job oriented educational system in such a way that students grow: -
+        <ul class="mrsl-list">
+            <li>Physically strong</li>
+            <li>Mentally brilliant</li>
+            <li>Culturally rich</li>
+            <li>Morally lofty</li>
+            <li>Spiritually enlightening</li>
+            <li>Socially harmonious</li>
+            <li>Materially prosperous</li>
+            <li>Globally friendly</li>
+            <li>Environmentally peaceful</li>
+        </ul>
+
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/useful-links' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:5:"About";s:3:"url";s:12:"/about/about";s:6:"layout";s:7:"default";s:10:"meta_title";s:5:"About";s:16:"meta_description";s:5:"About";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:5:"About";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

@@ -1,0 +1,63 @@
+1634654267a:1:{s:24:"facilities/maths-lab.htm";a:14:{s:8:"fileName";s:24:"facilities/maths-lab.htm";s:7:"content";s:1725:"title = "Maths Lab"
+url = "/facilities/maths-lab"
+layout = "default"
+meta_title = "Maths Lab"
+meta_description = "Maths Lab"
+is_hidden = 0
+seo_keywords = "Maths Lab"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/index.jpg'|theme}}" alt="Maths Labs">
+      </div>
+
+      <p>The school´s math lab was established in 2014. It is seen as a great start to make children love mathematics. The focus is shifted from textbook dominated classes to activity based learning. Students discover mathematics by doing and informal exploration. Learning new mathematical concepts, which many students often feel phobic about, becomes a fun activity for them. The school’s Maths Lab is well equiped with necesary kits & tools to argment the learning eperience of the childen. The interiors of the lab and the teaching & learning aids provides a wonderful opportunity for the children to understand & internalize the relevance & application of otherwise difficult mathematical concepts through concrete objects and situations.</p>
+
+       
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/useful-links' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1632628344;s:6:"markup";s:1496:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/index.jpg'|theme}}" alt="Maths Labs">
+      </div>
+
+      <p>The school´s math lab was established in 2014. It is seen as a great start to make children love mathematics. The focus is shifted from textbook dominated classes to activity based learning. Students discover mathematics by doing and informal exploration. Learning new mathematical concepts, which many students often feel phobic about, becomes a fun activity for them. The school’s Maths Lab is well equiped with necesary kits & tools to argment the learning eperience of the childen. The interiors of the lab and the teaching & learning aids provides a wonderful opportunity for the children to understand & internalize the relevance & application of otherwise difficult mathematical concepts through concrete objects and situations.</p>
+
+       
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/about' %}
+      {% partial 'sidebar/useful-links' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:9:"Maths Lab";s:3:"url";s:21:"/facilities/maths-lab";s:6:"layout";s:7:"default";s:10:"meta_title";s:9:"Maths Lab";s:16:"meta_description";s:9:"Maths Lab";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:9:"Maths Lab";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

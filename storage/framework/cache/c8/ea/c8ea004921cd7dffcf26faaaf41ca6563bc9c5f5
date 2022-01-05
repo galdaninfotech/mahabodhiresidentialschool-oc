@@ -1,0 +1,91 @@
+1629773695a:1:{s:45:"ven-bhikkhu-sanghasena/previous-positions.htm";a:14:{s:8:"fileName";s:45:"ven-bhikkhu-sanghasena/previous-positions.htm";s:7:"content";s:2538:"title = "Previous  Positions"
+url = "/ven-bhikkhu-sanghasena/previous-positions"
+layout = "default"
+meta_title = "Previous  Positions"
+meta_description = "Previous  Positions"
+is_hidden = 0
+seo_keywords = "Previous  Positions"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+
+      <div class="list-type2">
+        <ol>
+          <li><a href="">President, Mahabodhi Society, Bangalore from 1980 – 2009.</a></li>
+          <li><a href="">Founder-President, Mahabodhi International Meditation Centre (MIMC), Leh, Ladakh, India since 1985</a></li>
+          
+          <li><a href="">Former Council Member, International Association for Religious Freedom (IARF), UK </a></li>
+          <li><a href="">Chairman, United Religious Initiative, Ladakh Branch </a></li>
+          <li><a href="">President, International Association for Religious Freedom, Ladakh Chapter </a></li>
+          <li><a href="">Member of the Board of Directors, Buddha’s Light International Association (BLIA), Los Angeles, USA & Taiwan since 1991 – 2008. </a></li>
+          <li><a href="">Former Vice President, World Fellowship of Buddhist Youth, Bangkok, Thailand </a></li>
+          <li><a href="">Advisor, International Association for Engaged Buddhists (INEB), Thailand</a></li> 
+          <li><a href="">Executive Member, World Buddhist Sangha Council, Taipei, Taiwan </a></li>
+          <li><a href="">Chancellor, International Association of Educators for World Peace (IAEWP), Huntsville, USA, Jammu and Kashmir State Chapter, India </a></li>
+          <li><a href="">Governing Body Member, Nava Nalanda Deem University, Bihar, India Patron, Kampus OnlineTM IGNOU Virtual Community College, New Delhi, India Vice President, Ashoka Mission, New Delhi</a></li>
+          <li><a href="">Treasurer, International Buddhist Congregation, New Delhi from 2013 onwards. </a></li>
+        </ol>
+        </div>
+        
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/ven-bhikkhu-sanghasena' %}
+      {% partial 'sidebar/about' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1616028342;s:6:"markup";s:2248:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+
+      <div class="list-type2">
+        <ol>
+          <li><a href="">President, Mahabodhi Society, Bangalore from 1980 – 2009.</a></li>
+          <li><a href="">Founder-President, Mahabodhi International Meditation Centre (MIMC), Leh, Ladakh, India since 1985</a></li>
+          
+          <li><a href="">Former Council Member, International Association for Religious Freedom (IARF), UK </a></li>
+          <li><a href="">Chairman, United Religious Initiative, Ladakh Branch </a></li>
+          <li><a href="">President, International Association for Religious Freedom, Ladakh Chapter </a></li>
+          <li><a href="">Member of the Board of Directors, Buddha’s Light International Association (BLIA), Los Angeles, USA & Taiwan since 1991 – 2008. </a></li>
+          <li><a href="">Former Vice President, World Fellowship of Buddhist Youth, Bangkok, Thailand </a></li>
+          <li><a href="">Advisor, International Association for Engaged Buddhists (INEB), Thailand</a></li> 
+          <li><a href="">Executive Member, World Buddhist Sangha Council, Taipei, Taiwan </a></li>
+          <li><a href="">Chancellor, International Association of Educators for World Peace (IAEWP), Huntsville, USA, Jammu and Kashmir State Chapter, India </a></li>
+          <li><a href="">Governing Body Member, Nava Nalanda Deem University, Bihar, India Patron, Kampus OnlineTM IGNOU Virtual Community College, New Delhi, India Vice President, Ashoka Mission, New Delhi</a></li>
+          <li><a href="">Treasurer, International Buddhist Congregation, New Delhi from 2013 onwards. </a></li>
+        </ol>
+        </div>
+        
+
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/ven-bhikkhu-sanghasena' %}
+      {% partial 'sidebar/about' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:19:"Previous  Positions";s:3:"url";s:42:"/ven-bhikkhu-sanghasena/previous-positions";s:6:"layout";s:7:"default";s:10:"meta_title";s:19:"Previous  Positions";s:16:"meta_description";s:19:"Previous  Positions";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:19:"Previous  Positions";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

@@ -1,0 +1,61 @@
+1632626090a:1:{s:20:"news/latest-news.htm";a:15:{s:8:"fileName";s:20:"news/latest-news.htm";s:7:"content";s:1024:"title = "Latest News"
+url = "/news/latest-news"
+layout = "default"
+meta_title = "Latest News"
+meta_description = "Latest News"
+is_hidden = 0
+seo_keywords = "Latest News"
+robot_index = "index"
+robot_follow = "follow"
+
+[newsPosts]
+pageNumber = "{{ :page }}"
+postsPerPage = 10
+noPostsMessage = "No posts found"
+sortOrder = "published_at desc"
+postPage = "news"
+postFeatured = 0
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      {% component 'newsPosts' %}
+      
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/news' %}
+      {% partial 'sidebar/media' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1626459863;s:6:"markup";s:628:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+      
+      {% component 'newsPosts' %}
+      
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/news' %}
+      {% partial 'sidebar/media' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:11:"Latest News";s:3:"url";s:17:"/news/latest-news";s:6:"layout";s:7:"default";s:10:"meta_title";s:11:"Latest News";s:16:"meta_description";s:11:"Latest News";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:11:"Latest News";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:9:"newsPosts";a:6:{s:10:"pageNumber";s:11:"{{ :page }}";s:12:"postsPerPage";s:2:"10";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:17:"published_at desc";s:8:"postPage";s:4:"news";s:12:"postFeatured";s:1:"0";}}}

@@ -1,0 +1,27 @@
+1626487828a:1:{s:40:"sidebar/mahabodhi-residential-school.htm";a:5:{s:8:"fileName";s:40:"sidebar/mahabodhi-residential-school.htm";s:7:"content";s:971:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">Mahabodhi Residential School</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('/mahabodhi-residential-school/history')}}">History</a></li>
+        <li><a href="{{url('/mahabodhi-residential-school/mission-and-vision-of-school')}}">Mission & Vision of School</a></li>
+        <li><a href="{{url('/mahabodhi-residential-school/school-management-committee')}}">School Management Committee</a></li>
+        <li><a href="{{url('/mahabodhi-residential-school/list-of-teachers')}}">List of Teachers</a></li>
+        <li><a href="{{url('/mahabodhi-residential-school/cbse-requirements')}}">CBSE Requirements</a></li>
+        <li><a href="{{url('/mahabodhi-residential-school/admission-details')}}">Admission Details</a></li>
+      </ul>
+    </nav>
+  </div>";s:5:"mtime";i:1616027362;s:6:"markup";s:971:"<div class="widget-lbg margin-20px-tb">
+    <a href="#" class="title-box right"><span class="left title">Mahabodhi Residential School</span><span class="right icon icon-comment"><span class="slant-right"></span></span>
+    </a>
+    <nav class="nav">
+      <ul>
+        <li><a href="{{url('/mahabodhi-residential-school/history')}}">History</a></li>
+        <li><a href="{{url('/mahabodhi-residential-school/mission-and-vision-of-school')}}">Mission & Vision of School</a></li>
+        <li><a href="{{url('/mahabodhi-residential-school/school-management-committee')}}">School Management Committee</a></li>
+        <li><a href="{{url('/mahabodhi-residential-school/list-of-teachers')}}">List of Teachers</a></li>
+        <li><a href="{{url('/mahabodhi-residential-school/cbse-requirements')}}">CBSE Requirements</a></li>
+        <li><a href="{{url('/mahabodhi-residential-school/admission-details')}}">Admission Details</a></li>
+      </ul>
+    </nav>
+  </div>";s:4:"code";N;}}

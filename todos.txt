@@ -1,0 +1,67 @@
+TODOs
+-----
+
+
+Make the  site fully responsive 
+Menu Component
+Make the site lightbox ready (service worker etc)
+Clean up layout.htm
+Forms & Email Check
+Social Share buttons on articles
+Pages
+    about/guidelines
+    about/management-committee
+
+    ven-bhikkhu-sanghasena/itinerary
+
+    mahabodhi-residential-school/mission-and-vision-of-school
+    mahabodhi-residential-school/school-management-committee
+    mahabodhi-residential-school/admission-details
+
+    mahabodhi-sambodhi-retreat-centre/teachers
+
+    mahabodhi-city-centre-changspa/mimc-campus-tour
+
+    news/press-clippings
+
+====================================================
+
+Press Clippings
+---------------
+
+Mahabodhi Karuna Charitable Hospital Declared As COVID-19 Hospital
+
+Lieutenant Governor of Ladakh RK Mathur took stock of arrangements at Mahabodhi Karuna Charitable Hospital, Leh that has been designated for COVID-19 cases.
+
+Lieutenant Governor of Ladakh R.K. Mathur took stock of arrangements at Mahabodhi Karuna Charitable Hospital, Leh that has been designated for COVID-19 cases in UT Ladakh. He was accompanied by Commissioner/ Secretary Health Ladakh, Rigzin Samphel.
+
+Earlier, Common High Court of UT of Jammu-Kashmir and Ladakh directed Secretary, Department of Health and Medical Education of both the Union Territories together with the IGP, Jammu, IGP, Kashmir and IGP, Ladakh to ensure that complete safety and security is provided to the personnel who are serving at all government facilities.
+
+Both UT governments were also directed to ensure that the accommodation, healthcare and the needs of the migrant labourers, if not already provided for, are addressed.
+
+URL: https://www.republicworld.com/india-news/general-news/mahabodhi-karuna-charitable-hospital-declared-as-covid-19-hospital.html
+Date: 31st March, 2020 22:40 IST
+
+-----------------------------------------
+
+PM congratulates Mahabodhi International Meditation Centre, Leh Ladakh on Mahakaruna Diwas 2017 celebrations
+
+The Prime Minister Shri Narendra Modi has congratulated Mahabodhi International Meditation Centre, Leh Ladakh on Mahakaruna Diwas 2017 celebrations.
+
+"Congratulations & best wishes to Mahabodhi International Meditation Centre, Leh Ladakh on Mahakaruna Diwas 2017 celebrations.
+
+Life & teachings of Lord Buddha embody service, compassion and renunciation. He emphasised on non-violence & ending human suffering.", the Prime Minister said.
+
+URL: https://www.business-standard.com/article/government-press-release/pm-congratulates-mahabodhi-international-meditation-centre-leh-ladakh-on-mahakaruna-diwas-117020400680_1.html
+Date:  February 5, 2017 00:20 IST
+
+------------------------------------------
+
+A home away from home for poor girls from Ladakh
+
+It’s a foundation for the future,one that Bhikkhu Sanghasena,president of the Mahabodhi International Meditation Centre in Leh,envisions for the girls of Leh and Ladakh. The Mahabodhi Devachan Campus at Choglamsar is a 230-acre campus where activities of the Mahabodhi International Meditation Centre (MIMC) are conducted.
+
+MIMC is a non-government,charitable organisation working for the poorest of poor. The campus houses a school till Class X,residential hostels for boys and girls,home for the elderly and physically challenged,a hostel for the visually impaired,a monastery and nunnery,a meditation retreat centre,a global family guest house and a fully-equipped hospital with state-of-the-art facilities.
+
+URL: https://indianexpress.com/article/cities/chandigarh/a-home-away-from-home-for-poor-girls-from-ladakh/
+Date: December 1, 2010 4:53:11 am

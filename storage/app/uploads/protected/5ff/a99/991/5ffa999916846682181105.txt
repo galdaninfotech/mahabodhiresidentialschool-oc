@@ -1,0 +1,119 @@
+
+
+CHKDSK: Used to check and repair issues in the disk
+CHKNTFS: Used to check the NTFS file system
+CLEANMGR: Used clean temp files and recycle bin automatically
+DEFRAG: Used to defragment system hard drive
+
+VER: Show version number of installed OS
+MSINFO32: Display system information in GUI
+SYSTEMINFO: Display detailed configuration information about the computer
+PERFMON: Access performance monitor in CMD
+SC: Use Service Controller to manage Windows services
+
+TASKKILL: Used to terminate on or more running processes
+TASKLIST: Display a list of running apps and services
+SYSMON: Monitor and log system activity to Windows event log
+TYPEPERF: Write performance data to a CMD window or a log file
+
+======================================
+
+Disk
+----
+DISKCOPY: Copy data of one floppy disk to another
+DISKPART: Make changes to partitions of storage, both internal and connected
+DISKSHADOW: Access the Disk Shadow Copy Service
+DISKUSE: View used space in folder(s)
+DRIVERQUERY: Display a list of installed device drivers
+RECOVER: Recover readable data from a defective disk
+
+TREE: Display a folder structure in the form of a graphical tree
+VERIFY: Verify whether files are saved correctly on the disk
+VOL: Show disk volume label and serial number
+
+===========================================
+
+Network
+-------
+
+IPCONFIG: Display and change Windows IP configuration
+IPSECCMD  Used to configure IP Security policies
+IPXROUTE: Display and modify routing table information used by IPX protocol
+IRFTP:  Used to send files over an infrared link (infrared functionality required)
+
+NBSTAT: Display NetBIOS over TCP/IP information
+NET: Used to manage network resources and services
+NETDOM: Network Domain Manager utility
+NETSH: Display or modify network configuration
+NETSTAT: Display active TCP/IP connections
+NLSINFO: Used to display locale information
+NLTEST: List domain controllers, force remote shutdown, etc
+NOW Display date and time
+NSLOOKUP Check IP address on a Name Server
+
+TELNET: Communicate with a remote machine using TELNET protocol
+TFTP: Transfer files to and from a remote machine running TFTP protocol
+TRACERPT: Process event trace logs and generate trace analysis report
+TRACERT: Trace route to a remote host by sending ICMP request messages
+
+WHOAMI: Display information about the active user
+
+WINRM: Windows Remote Management
+WINRS: Windows Remote Shell
+
+============================================================
+
+Programming
+-----------
+
+PATH: Set PATH environment variable for executable files
+SUBST: Associate a path with a drive letter
+TREE: Display a folder structure in the form of a graphical tree
+
+=============================================================
+
+Printing
+--------
+print Used to print a text file(s) from CMD
+printbrm For backup/recovery/migration of the print queue
+prncnfg Used to configure/rename a printing device
+prndrvr List/add/delete printer drivers
+prnjobs List/pause/resume/cancel print jobs
+prnmngr List/add/delete printers, display/set default printer
+prnport List/create/delete TCP printer ports, display/change port
+configuration
+prnqctl Clear printer queue, print a test page
+
+
+======================================================================
+
+Remote Access
+-------------
+
+psexec Run a CMD process on a remote computer
+psfile Display remotely opened files, close an open file
+psinfo List system information about a local/remote machine
+pskill Kill a process(es) using its name or process ID
+pslist Display process status and info about active processes
+psloggedon See active users on machine
+psloglist Display event log records
+pspasswd Used to change account password
+psping Used to measure network performance
+psservice Display and control services on a machine
+psshutdown Shutdown/restart/logoff/lock a local or remote machine
+pssuspend Used to suspend a process on a local or remote computer
+pushd Change current folder and store previous folder for use by POPD
+rasdial Display Remote Access Service Status
+rasphone Manage RAS connections
+rcp Copy files to a computer running remote shell service
+
+tsdiscon Terminate a remote desktop connection
+tskill Terminate a running process on a RD Session Host server
+tssutdn Shutdown/reboot a terminal server remotely
+=======================================================================================
+
+
+
+
+
+

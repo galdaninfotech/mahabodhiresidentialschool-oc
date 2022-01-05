@@ -1,0 +1,73 @@
+1629773694a:1:{s:48:"mahabodhi-sambodhi-retreat-centre/facilities.htm";a:14:{s:8:"fileName";s:48:"mahabodhi-sambodhi-retreat-centre/facilities.htm";s:7:"content";s:1951:"title = "Facilities"
+url = "/mahabodhi-sambodhi-retreat-centre/facilities"
+layout = "default"
+meta_title = "Facilities"
+meta_description = "Facilities"
+is_hidden = 0
+seo_keywords = "Facilities"
+robot_index = "index"
+robot_follow = "follow"
+
+
+==
+<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/about/management-committee.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <p>The Centre is blessed with a beautiful meditation hall; separate dormitories which can accommodate 40-50 male and female residents at a time; a delightful dining hall for more than 50 people and a beautiful garden where meditators can practice walking meditation and yoga or simply rest on the lawn under many fruits trees.</p>
+
+      <p> It is also intriguing to see different types of birds wandering in the garden and among the trees.</p>
+
+      <p>In addition to the spacious accommodation and the first-rate facilities for groups, the Sambodhi Retreat Centre has a number of comfortable meditation kutis (with attached bathroom, small kitchen, bedroom and meditation room) for experienced solitary practitioners. We are also looking forward to building more such kutis in the future, as and when the necessary resources become available.</p>
+      
+      <p></p>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-sambodhi-retreat-centre' %}
+      {% partial 'sidebar/mahabodhi-city-centre-changspa' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:5:"mtime";i:1625511841;s:6:"markup";s:1694:"<div class="container">
+  <div class="row main-content margin-50px-tb">
+    <div class="col-md-9">
+      
+      <div class="d-flex justify-content-center margin-20px-bottom">
+        <div>
+            <div class="heading white-heading"><h1>{{this.page.title}}</h1></div>
+        </div>
+      </div>
+
+      <div class="polaroid">
+        <img class="img img-responsive" src="{{'assets/images/about/management-committee.jpg'|theme}}" alt="{{this.page.title}}">
+      </div>
+
+      <p>The Centre is blessed with a beautiful meditation hall; separate dormitories which can accommodate 40-50 male and female residents at a time; a delightful dining hall for more than 50 people and a beautiful garden where meditators can practice walking meditation and yoga or simply rest on the lawn under many fruits trees.</p>
+
+      <p> It is also intriguing to see different types of birds wandering in the garden and among the trees.</p>
+
+      <p>In addition to the spacious accommodation and the first-rate facilities for groups, the Sambodhi Retreat Centre has a number of comfortable meditation kutis (with attached bathroom, small kitchen, bedroom and meditation room) for experienced solitary practitioners. We are also looking forward to building more such kutis in the future, as and when the necessary resources become available.</p>
+      
+      <p></p>
+      
+    </div> <!--  .col-md-9 -->
+
+    <div class="col-md-3 d-none d-xs-none d-sm-block">
+      {% partial 'sidebar/mahabodhi-sambodhi-retreat-centre' %}
+      {% partial 'sidebar/mahabodhi-city-centre-changspa' %}
+            
+    </div> <!--  .col-md-3 -->
+  </div> <!--  .row -->
+</div> <!--  .container -->";s:4:"code";N;s:5:"title";s:10:"Facilities";s:3:"url";s:45:"/mahabodhi-sambodhi-retreat-centre/facilities";s:6:"layout";s:7:"default";s:10:"meta_title";s:10:"Facilities";s:16:"meta_description";s:10:"Facilities";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:10:"Facilities";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}
